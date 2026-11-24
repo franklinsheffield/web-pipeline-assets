@@ -1,0 +1,33 @@
+{
+ "version": 1,
+ "kinds": [
+  {
+   "kind": "models",
+   "label": "Models",
+   "count": 6471,
+   "file": "/library/models.json",
+   "href": "/models"
+  },
+  {
+   "kind": "textures",
+   "label": "Textures",
+   "count": 160,
+   "file": "/library/textures.json",
+   "href": "/models/textures"
+  },
+  {
+   "kind": "hdris",
+   "label": "HDRIs",
+   "count": 41,
+   "file": "/library/hdris.json",
+   "href": "/models/hdris"
+  },
+  {
+   "kind": "effects",
+   "label": "Effects",
+   "count": 223,
+   "file": "/library/effects.json",
+   "href": "/models/effects"
+  }
+ ]
+}
