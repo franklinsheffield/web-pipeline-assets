@@ -11,14 +11,14 @@
   {
    "kind": "textures",
    "label": "Textures",
-   "count": 160,
+   "count": 520,
    "file": "/library/textures.json",
    "href": "/models/textures"
   },
   {
    "kind": "hdris",
    "label": "HDRIs",
-   "count": 41,
+   "count": 179,
    "file": "/library/hdris.json",
    "href": "/models/hdris"
   },
