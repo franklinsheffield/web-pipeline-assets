@@ -40071,7 +40071,8 @@
 "likes": 10,
 "thumb": "/library/thumbs/models/sf-bedroom-crime-scene-dot3d-dpi-10-kit-20-d05d44.webp",
 "hosted": "github",
-"pointCloud": true
+"pointCloud": true,
+"excludeFromKit": true
 },
 {
 "id": "sf-electrical-room-dot3d-dpi-kit-15-points-7ceb2b",
@@ -44986,7 +44987,8 @@
 "likes": 7,
 "thumb": "/library/thumbs/models/sf-closet-crime-scene-dot3d-dpi-10-kit-27-p-e7c6d4.webp",
 "hosted": "github",
-"pointCloud": true
+"pointCloud": true,
+"excludeFromKit": true
 },
 {
 "id": "sf-residential-bathroom-dot3d-ios-lidar-5-p-7f2e88",
