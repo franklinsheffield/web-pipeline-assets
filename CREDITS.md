@@ -1,6 +1,6 @@
 # Credits and licences
 
-Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files were optimised for the web (meshopt geometry, WebP textures, 1K HDR copies); CC BY items list the credit they need below. Totals: 6471 models, 520 texture sets, 179 HDRIs and sky maps, 223 effect sprites, 107 converted splat scenes.
+Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files were optimised for the web (meshopt geometry, WebP textures, 1K HDR copies); CC BY items list the credit they need below. Totals: 6471 models, 520 texture sets, 179 HDRIs and sky maps, 448 effect sprites.
 
 ## Sources by pack
 
@@ -8,11 +8,11 @@ Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files we
 |---|---|---|---|---|---|
 | hdris | Poly Haven | Poly Haven artists | CC0 1.0 | 138 | zuujis-cc0/polyhaven-hdris-* (mirror of polyhaven.com) |
 | textures | ambientCG | ambientCG | CC0 1.0 | 360 | zuujis-cc0/ambientcg-materials-* (mirror of ambientcg.com) |
-| splats | Converted from this repo's models | Poly Haven; NASA; Three D Scans | CC0 1.0 / public domain / no restrictions | 107 | models/ in this repo |
 | effects | Kenney Particle Pack | Kenney | CC0 1.0 | 96 | shorepine/kenney |
 | effects | Kenney Smoke Particles | Kenney | CC0 1.0 | 53 | shorepine/kenney |
 | effects | Kenney Planets | Kenney | CC0 1.0 | 52 | shorepine/kenney |
 | effects | Kenney Explosion Pack | Kenney | CC0 1.0 | 22 | shorepine/kenney |
+| effects | Kit-made sprites | Made for the kit | CC0 1.0 | 225 | kit (scripts/gaps/effects_gen.py, effects_gen2.py) |
 | hdris | Poly Haven | Poly Haven | CC0 1.0 | 37 | RazorEdge-wyh/unity-nature-pbr-asset-library |
 | hdris | NASA 3D Resources | NASA | Public domain | 3 | nasa/NASA-3D-Resources |
 | hdris | Kit space textures | NASA Goddard SVS; Gaia DR2: ESA/Gaia/DPAC | Public domain | 1 | kit |
