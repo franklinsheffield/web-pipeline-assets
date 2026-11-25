@@ -1,0 +1,55 @@
+name: Unsplash photo library
+# Builds photos/ + catalog/photos.json in batches. Demo Unsplash apps allow 50 API
+# requests an hour, so this runs hourly until the script prints COMPLETE, then
+# disables its own schedule. Needs the repo secret UNSPLASH_ACCESS_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      max_requests:
+        description: API requests this run (50/h on a demo key, 5000/h in production)
+        default: "45"
+  schedule:
+    - cron: "23 * * * *"
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: unsplash-photos
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            catalog
+            photos
+            CREDITS.md
+            README.md
+            .github
+      - name: Fetch a batch
+        id: run
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          UNSPLASH_APP_NAME: lab_asset_library
+          MAX_REQUESTS: ${{ inputs.max_requests || '45' }}
+        run: |
+          if [ -z "$UNSPLASH_ACCESS_KEY" ]; then echo "No UNSPLASH_ACCESS_KEY secret yet"; exit 0; fi
+          python3 scripts/unsplash/fetch_photos.py | tee run.log
+          grep -q COMPLETE run.log && echo "complete=1" >> "$GITHUB_OUTPUT" || true
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Unsplash photo library: $(tail -n 2 run.log | head -n 1)"
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
+      - name: Stop the hourly schedule when done
+        if: steps.run.outputs.complete == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow disable "Unsplash photo library" --repo "$GITHUB_REPOSITORY"
