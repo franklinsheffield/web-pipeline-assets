@@ -1,11 +1,14 @@
 # Credits and licences
 
-Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files were optimised for the web (meshopt geometry, WebP textures, 1K HDR copies); CC BY items list the credit they need below. Totals: 6471 models, 160 texture sets, 41 HDRIs and sky maps, 223 effect sprites.
+Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files were optimised for the web (meshopt geometry, WebP textures, 1K HDR copies); CC BY items list the credit they need below. Totals: 6471 models, 520 texture sets, 179 HDRIs and sky maps, 223 effect sprites, 107 converted splat scenes.
 
 ## Sources by pack
 
 | Kind | Pack | Author | Licence | Items | Fetched from |
 |---|---|---|---|---|---|
+| hdris | Poly Haven | Poly Haven artists | CC0 1.0 | 138 | zuujis-cc0/polyhaven-hdris-* (mirror of polyhaven.com) |
+| textures | ambientCG | ambientCG | CC0 1.0 | 360 | zuujis-cc0/ambientcg-materials-* (mirror of ambientcg.com) |
+| splats | Converted from this repo's models | Poly Haven; NASA; Three D Scans | CC0 1.0 / public domain / no restrictions | 107 | models/ in this repo |
 | effects | Kenney Particle Pack | Kenney | CC0 1.0 | 96 | shorepine/kenney |
 | effects | Kenney Smoke Particles | Kenney | CC0 1.0 | 53 | shorepine/kenney |
 | effects | Kenney Planets | Kenney | CC0 1.0 | 52 | shorepine/kenney |
