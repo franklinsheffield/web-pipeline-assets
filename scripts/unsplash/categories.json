@@ -1,0 +1,18 @@
+{
+  "perCategory": 20,
+  "minWidth": 3000,
+  "categories": [
+    {"id": "portraits-neon", "name": "Neon portraits", "queries": ["neon portrait", "colored light portrait"], "vibes": ["cyberpunk", "vaporwave", "cinematic"]},
+    {"id": "portraits-bw", "name": "Black and white portraits", "queries": ["black and white portrait", "monochrome fashion portrait"], "vibes": ["editorial", "cinematic", "swiss"]},
+    {"id": "fashion", "name": "Fashion editorial", "queries": ["fashion editorial", "streetwear model"], "vibes": ["editorial", "sporty", "corporate"]},
+    {"id": "city-night", "name": "City at night", "queries": ["neon city night", "tokyo street night"], "vibes": ["cyberpunk", "cinematic", "arcade"]},
+    {"id": "architecture", "name": "Minimal architecture", "queries": ["minimal architecture", "brutalist building"], "vibes": ["brutalist", "swiss", "corporate"]},
+    {"id": "abstract-colour", "name": "Abstract colour and light", "queries": ["abstract gradient", "light leak prism"], "vibes": ["vaporwave", "serene", "swiss"]},
+    {"id": "textures", "name": "Surface textures", "queries": ["concrete texture", "paper texture"], "vibes": ["grunge", "industrial", "wabi-sabi"]},
+    {"id": "landscapes", "name": "Dramatic landscapes", "queries": ["dramatic mountain landscape", "desert dunes"], "vibes": ["cinematic", "serene", "solarpunk"]},
+    {"id": "skies", "name": "Skies and clouds", "queries": ["dramatic sky clouds", "sunset sky"], "vibes": ["serene", "cinematic", "storybook"]},
+    {"id": "water", "name": "Water and ocean", "queries": ["ocean waves aerial", "water surface"], "vibes": ["serene", "organic", "cinematic"]},
+    {"id": "retro-tech", "name": "Retro tech", "queries": ["vintage computer", "retro television"], "vibes": ["arcade", "vaporwave", "industrial"]},
+    {"id": "mockup-scenes", "name": "Mockup scenes", "queries": ["blank wall interior", "minimal desk workspace"], "vibes": ["corporate", "swiss", "editorial"]}
+  ]
+}
