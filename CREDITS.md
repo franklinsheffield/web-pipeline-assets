@@ -610,10 +610,35 @@ Photogrammetry/3D scans from Sketchfab, each CC BY 4.0 (https://creativecommons.
 - `models/scans/sf-driftwood-beach-hut-18dea0.glb`: "Driftwood beach hut" by boring3d, https://sketchfab.com/3d-models/18dea07371c248128192e271a0f71ef9, CC BY 4.0, modified
 - `models/scans/sf-camila-3d-scan-9e6fa4.glb`: "Camila 3d scan" by wakethetownvfx, https://sketchfab.com/3d-models/9e6fa43be81d4d039b4b0941662e5e03, CC BY 4.0, modified
 - `models/scans/sf-old-gmc-truck-041d6c.glb`: "Old GMC truck" by majedhd, https://sketchfab.com/3d-models/041d6c390963426db78a5c91a19a43ff, CC BY 4.0, modified
+- `models/scans/sf-crashed-vw-dot3d-dpi-10-kit-30-of-points-017a9a.glb`: "Crashed VW (Dot3D, DPI-10 Kit, 30% of points)" by DotProduct, https://sketchfab.com/3d-models/017a9a6708ba4490810a898dde47ac3b, CC BY 4.0, modified
+- `models/scans/sf-jan-kaplicky-drawings-university-of-gree-08e6e2.glb`: "JAN KAPLICKÝ DRAWINGS | University of Greenwich" by Hyun Jun PARK, https://sketchfab.com/3d-models/08e6e2d6e1ba426c92083cdaba13a2f5, CC BY 4.0, modified
+- `models/scans/sf-residential-basement-dot3d-realsensel515-140022.glb`: "Residential Basement(Dot3D,RealSenseL515,7% pts)" by DotProduct, https://sketchfab.com/3d-models/140022921cd345078f11b4a00803ddc4, CC BY 4.0, modified
+- `models/scans/sf-crashed-vw-dot3d-realsense-d415-15-point-18b841.glb`: "Crashed VW (Dot3D, RealSense D415, 15% points)" by DotProduct, https://sketchfab.com/3d-models/18b84143265f4df39bfaebacb695169c, CC BY 4.0, modified
+- `models/scans/sf-unit15-2017-university-of-greenwich-1bebc8.glb`: "Unit15 | 2017 | University Of Greenwich" by Hyun Jun PARK, https://sketchfab.com/3d-models/1bebc80804264b3fbaccf08274ca70ec, CC BY 4.0, modified
+- `models/scans/sf-dark-hotel-room-dot3d-dpi-10-kit-19-pts-1dbaaf.glb`: "Dark Hotel Room (Dot3D, DPI-10 Kit, 19% pts)" by DotProduct, https://sketchfab.com/3d-models/1dbaaf429e30457d9fe05e8e4780752f, CC BY 4.0, modified
+- `models/scans/sf-3d-scan-of-a-statue-37fd78.glb`: "3D Scan of a statue" by Photoneo, now part of Zebra Technologies, https://sketchfab.com/3d-models/37fd7871d2e64ff8b1e5618bd78b23d1, CC BY 4.0, modified
+- `models/scans/sf-electrical-room-dot3d-realsense-d455-17-483c37.glb`: "Electrical Room (Dot3D, RealSense D455, 17% pts)" by DotProduct, https://sketchfab.com/3d-models/483c37922f804d9c8beb510c31c83f57, CC BY 4.0, modified
+- `models/scans/sf-stadium-utm-55cff8.glb`: "stadium-utm" by James, https://sketchfab.com/3d-models/55cff84f74f549209cb0c6659405c29d, CC BY 4.0, modified
+- `models/scans/sf-car-crash-dot3d-realsense-d415-8-of-pts-69b907.glb`: "Car Crash (Dot3D, RealSense D415, 8% of pts)" by DotProduct, https://sketchfab.com/3d-models/69b9070126d54038a0142cbc6c4b4a5e, CC BY 4.0, modified
+- `models/scans/sf-electrical-room-dot3d-dpi-kit-15-points-7ceb2b.glb`: "Electrical Room (Dot3D / DPI Kit, 15% points)" by DotProduct, https://sketchfab.com/3d-models/7ceb2b93e1874a6aa87984e49cfa21e1, CC BY 4.0, modified
+- `models/scans/sf-residential-bathroom-dot3d-ios-lidar-5-p-7f2e88.glb`: "Residential Bathroom (Dot3D, iOS LiDAR, 5% pts)" by DotProduct, https://sketchfab.com/3d-models/7f2e889be0c948009e8d3377bfb481d4, CC BY 4.0, modified
+- `models/scans/sf-manhattan-apartment-point-cloud-8e348c.glb`: "Manhattan Apartment - Point Cloud" by Guillermo Sainz, https://sketchfab.com/3d-models/8e348cbfefed405eb28ce8e7b1ba6fdc, CC BY 4.0, modified
+- `models/scans/sf-eclas-2017-conference-university-of-gree-91d317.glb`: "ECLAS 2017 Conference | University of Greenwich" by Hyun Jun PARK, https://sketchfab.com/3d-models/91d317b9b7cb45a7926fe4438d7edc98, CC BY 4.0, modified
+- `models/scans/sf-platanus-fall-semester-2018-topology-91fd01.glb`: "Platanus | Fall Semester 2018 Topology" by LVML | Landscape Virtualization and Modelling Lab, https://sketchfab.com/3d-models/91fd01630a8e494694d4eebcadcf1d49, CC BY 4.0, modified
+- `models/scans/sf-piping-dot3d-dpi-10-kit-27-pts-93ff8a.glb`: "Piping (Dot3D, DPI-10 Kit, 27% pts)" by DotProduct, https://sketchfab.com/3d-models/93ff8a41c67e4750a02d44d191f898fe, CC BY 4.0, modified
+- `models/scans/sf-residential-bedrooms-dot3d-dpi-10-kit-7-a09591.glb`: "Residential Bedrooms (Dot3D, DPI-10 Kit, 7% pts)" by DotProduct, https://sketchfab.com/3d-models/a0959129210a4685ad727ea0f3764e7d, CC BY 4.0, modified
+- `models/scans/sf-crashed-truck-dot3d-realsense-d415-16-pt-b74ffa.glb`: "Crashed Truck (Dot3D, RealSense D415, 16% pts)" by DotProduct, https://sketchfab.com/3d-models/b74ffaf975b94761ad88eb97a8b191e0, CC BY 4.0, modified
+- `models/scans/sf-resort-hallway-dot3d-dpi-10-kit-19-pts-b7db62.glb`: "Resort Hallway (Dot3D, DPI-10 Kit, 19% pts)" by DotProduct, https://sketchfab.com/3d-models/b7db620812e244afb96c0fd9b8404122, CC BY 4.0, modified
+- `models/scans/sf-car-crash-dot3d-dpi-10sr-kit-20-of-pts-c42880.glb`: "Car Crash (Dot3D, DPI-10SR Kit, 20% of pts)" by DotProduct, https://sketchfab.com/3d-models/c4288084f43c4aa7969c9603bd92e7ec, CC BY 4.0, modified
+- `models/scans/sf-bedroom-crime-scene-dot3d-dpi-10-kit-20-d05d44.glb`: "Bedroom Crime Scene (Dot3D, DPI-10 Kit, 20% pts)" by DotProduct, https://sketchfab.com/3d-models/d05d4468ce89462daad344c359651d04, CC BY 4.0, modified
+- `models/scans/sf-closet-crime-scene-dot3d-dpi-10-kit-27-p-e7c6d4.glb`: "Closet Crime Scene (Dot3D, DPI-10 Kit, 27% pts)" by DotProduct, https://sketchfab.com/3d-models/e7c6d4ca99d04ef0a27ab416579286a8, CC BY 4.0, modified
+- `models/scans/sf-echo-in-johnson-city-antiques-showroom-eadc30.glb`: "Echo in Johnson City - Antiques Showroom" by SiteScape, https://sketchfab.com/3d-models/eadc3036970f4c12bfcca922e553ce13, CC BY 4.0, modified
+- `models/scans/sf-kitchen-dining-room-dot3d-dpi-10-kit-5-p-ed0963.glb`: "Kitchen+Dining Room (Dot3D, DPI-10 Kit, 5% pts)" by DotProduct, https://sketchfab.com/3d-models/ed0963e93083493eaaf20f985dccb9c9, CC BY 4.0, modified
+- `models/scans/sf-tree-shadow-fd327d.glb`: "Tree shadow" by archiwum_xyz, https://sketchfab.com/3d-models/fd327d4ef1a34f9bbadbdaa00b47fdc5, CC BY 4.0, modified
 
 
 ## Effects (replaced 2026-11-25)
 
 The 448 Kenney and kit-made effect sprites were removed. `effects/` now holds 242 particle-overlay loops rendered procedurally for the kit (CC0 1.0, no credit needed): H.264 MP4, 1280x720, 30 fps, 8 s seamless loops of light on pure black, made for `mix-blend-mode: screen`.
 
-Vecteezy overlays are deliberately NOT stored here: the Vecteezy Free License forbids redistributing the files ("not even for free") and stockpiling downloads. The kit links to a curated list instead (`src/library/vecteezy.ts`).
+Vecteezy overlays are deliberately NOT stored here: the Vecteezy Free License forbids redistributing the files ("not even for free") and stockpiling downloads. The kit links to a short hand-picked list of Vecteezy and Pixabay clips instead (`src/library/stock-overlays.ts`).

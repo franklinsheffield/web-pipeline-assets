@@ -3546,6 +3546,15 @@
   "rawBytes": 31447252
  },
  {
+  "uid": "91d317b9b7cb45a7926fe4438d7edc98",
+  "id": "sf-eclas-2017-conference-university-of-gree-91d317",
+  "bytes": 17570796,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 76076744
+ },
+ {
   "uid": "249f6592261642269a95a7cf87c45d9f",
   "id": "sf-10-249f65",
   "bytes": 994120,
@@ -3625,5 +3634,5099 @@
   "maxTexture": 2048,
   "textures": 1,
   "rawBytes": 10309256
+ },
+ {
+  "uid": "689530f9cd484d3683b6b2fe917c1ad1",
+  "id": "sf-karen-millen-jacket-agisoftclotheschalle-689530",
+  "bytes": 691456,
+  "tris": 49942,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 7734572
+ },
+ {
+  "uid": "45ac11037e494ab2b4ba05587c7477af",
+  "id": "sf-cut-oak-tree-stump-free-45ac11",
+  "bytes": 2386320,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 31903044
+ },
+ {
+  "uid": "5e65255506b943319812b4bb5fae597a",
+  "id": "sf-st-jude-on-the-hill-church-london-5e6525",
+  "bytes": 17094788,
+  "tris": 199923,
+  "maxTexture": 2048,
+  "textures": 24,
+  "rawBytes": 159024108
+ },
+ {
+  "uid": "51e9ff4edb9f4e78bc179847f5b6ed96",
+  "id": "sf-asphalt-strips-roof-51e9ff",
+  "bytes": 2149984,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 24750244
+ },
+ {
+  "uid": "2061e30b8060458fb6047226bea80dca",
+  "id": "sf-filthy-old-plaster-wall-with-leaking-wat-2061e3",
+  "bytes": 879532,
+  "tris": 49926,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 12789308
+ },
+ {
+  "uid": "0fc7273dcd1b4c7c957d0f5171f166b2",
+  "id": "sf-toy-tank-0fc727",
+  "bytes": 1376320,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20929820
+ },
+ {
+  "uid": "325617b044af4650a7054888f93e0d23",
+  "id": "sf-brdm-2-transporter-raw-scan-325617",
+  "bytes": 1661120,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 21592032
+ },
+ {
+  "uid": "6c433d9e63b94d9c9e0e8bf131dd3b9d",
+  "id": "sf-decorative-pillar-6c433d",
+  "bytes": 2084340,
+  "tris": 199992,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 25632572
+ },
+ {
+  "uid": "2743bba646754bb09f11deef7b3c5792",
+  "id": "sf-3d-scan-smaug-funko-pop-figure-2743bb",
+  "bytes": 1244276,
+  "tris": 190812,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10636768
+ },
+ {
+  "uid": "b4d2525b58a54717ab604aae8ca2b900",
+  "id": "sf-lowpoly-chicken-and-waffles-b4d252",
+  "bytes": 404484,
+  "tris": 1000,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 6706616
+ },
+ {
+  "uid": "cbfc4c4846e440ffa741bc073ad1be15",
+  "id": "sf-wonderful-barn-raw-scan-cbfc4c",
+  "bytes": 8189060,
+  "tris": 199984,
+  "maxTexture": 2048,
+  "textures": 11,
+  "rawBytes": 58774516
+ },
+ {
+  "uid": "a1aa4fe2c07d4bb08067572aeb4efc0f",
+  "id": "sf-priory-park-lodge-west-yorkshire-a1aa4f",
+  "bytes": 2620136,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 62886828
+ },
+ {
+  "uid": "ac42e8c4fff04cf397a10a8b6e6cdb44",
+  "id": "sf-daikin-ac-unit-ac42e8",
+  "bytes": 908828,
+  "tris": 48917,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10791564
+ },
+ {
+  "uid": "4d042a6f320d4eb799aa03acdfdc4957",
+  "id": "sf-statue-of-cristina-trivulzio-di-belgiojo-4d042a",
+  "bytes": 2043164,
+  "tris": 199992,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 33766472
+ },
+ {
+  "uid": "73479897896947e19a0d21b61534ac4d",
+  "id": "sf-snow-covered-gargoyle-statue-734798",
+  "bytes": 516492,
+  "tris": 21840,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 5626828
+ },
+ {
+  "uid": "65e907157dfa4d16af2d46dea967d627",
+  "id": "sf-rotavator-pasquali-65e907",
+  "bytes": 2303364,
+  "tris": 199976,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 30628384
+ },
+ {
+  "uid": "efcea954e051494bbc710afd6bd4315a",
+  "id": "sf-ball-games-sculpture-efcea9",
+  "bytes": 1611692,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15051628
+ },
+ {
+  "uid": "b497684568844c208a6f6b827b9eaa52",
+  "id": "sf-dollar-bill-elephant-3dst48-b49768",
+  "bytes": 1201436,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20376132
+ },
+ {
+  "uid": "efc1868796a94a238d4db30c81b7705f",
+  "id": "sf-copper-roof-rust-stains-on-concrete-efc186",
+  "bytes": 1320776,
+  "tris": 180254,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 23614700
+ },
+ {
+  "uid": "b4631c26c8644cd58e3b19edbed58759",
+  "id": "sf-igloo-b4631c",
+  "bytes": 1777132,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 42562592
+ },
+ {
+  "uid": "94c11138257f46b4a1be58de651764b8",
+  "id": "sf-santa-cristina-di-paulilatino-or-94c111",
+  "bytes": 1416128,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21600380
+ },
+ {
+  "uid": "552e61acea5c4bc888978b14bbdc8d53",
+  "id": "sf-stone-relief-01-552e61",
+  "bytes": 1526040,
+  "tris": 200029,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 36601360
+ },
+ {
+  "uid": "a10d7f8f917b4270bdfb5b52953fafaf",
+  "id": "sf-medieval-wooden-doors-a10d7f",
+  "bytes": 637204,
+  "tris": 38991,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 7777732
+ },
+ {
+  "uid": "57b0c5b3d7514884afd1365f98aa7d6d",
+  "id": "sf-private-57b0c5",
+  "bytes": 2148364,
+  "tris": 200007,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 31691524
+ },
+ {
+  "uid": "39a2b49027b14be1847bd3460940f048",
+  "id": "sf-dubrovnik-croatia-360-39a2b4",
+  "bytes": 829780,
+  "tris": 19800,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 6904124
+ },
+ {
+  "uid": "8e808365b5a6453497826b114b02f155",
+  "id": "sf-statue-of-liberty-3d-scan-8e8083",
+  "bytes": 901648,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 29219440
+ },
+ {
+  "uid": "20052d03a26140f8af2338b6e25cd49f",
+  "id": "sf-vandalized-3d-scan-20052d",
+  "bytes": 511728,
+  "tris": 939,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 2700556
+ },
+ {
+  "uid": "9b402c0c396043c981e2d2feff0c9ae2",
+  "id": "sf-74-29-14mm-9b402c",
+  "bytes": 1436376,
+  "tris": 384011,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 14047064
+ },
+ {
+  "uid": "66d6d6494d2a4a7a82c586020aeefc6c",
+  "id": "sf-wooden-case-66d6d6",
+  "bytes": 926672,
+  "tris": 27224,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 22515712
+ },
+ {
+  "uid": "e8e8797271724265ac42d3620967a7aa",
+  "id": "sf-hightop-scan-cleaned-decimated-e8e879",
+  "bytes": 926524,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 9787880
+ },
+ {
+  "uid": "a62c6c9e0b5e479196fda05e0bfc7dc2",
+  "id": "sf-terrain-detail-a62c6c",
+  "bytes": 6107220,
+  "tris": 396148,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 70425576
+ },
+ {
+  "uid": "ec50d11227d44a0f9629eb72d4d9b7bc",
+  "id": "sf-dry-onion-ec50d1",
+  "bytes": 570544,
+  "tris": 44000,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 25719736
+ },
+ {
+  "uid": "0d7312a379f64351aa3399d008ff50ee",
+  "id": "sf-tree-trunks-cross-bench-0d7312",
+  "bytes": 3232824,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 57036404
+ },
+ {
+  "uid": "e235c6b99cab49f0b57ffc148ecb1231",
+  "id": "sf-lawn-composter-box-rcearthday-e235c6",
+  "bytes": 5356000,
+  "tris": 215806,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 51435640
+ },
+ {
+  "uid": "fb8fe0d1c7c2479c9983e2984610adf4",
+  "id": "sf-trash-bin-black-plastic-waste-garbage-ca-fb8fe0",
+  "bytes": 571624,
+  "tris": 9513,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 18466500
+ },
+ {
+  "uid": "4110b8ec5b474b41950f362a37681cf6",
+  "id": "sf-vietnamese-village-drone-3d-scan-4110b8",
+  "bytes": 2687516,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 35507048
+ },
+ {
+  "uid": "fcf64ccbf72340558b54dc328ba9bc3e",
+  "id": "sf-handicapped-reserved-parking-symbol-on-a-fcf64c",
+  "bytes": 955360,
+  "tris": 100000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9945716
+ },
+ {
+  "uid": "01dacc055a22496c998ba78c859faa9a",
+  "id": "sf-3d-scanned-natural-stone-01dacc",
+  "bytes": 249160,
+  "tris": 8268,
+  "maxTexture": 1024,
+  "textures": 2,
+  "rawBytes": 2485544
+ },
+ {
+  "uid": "687db903294d4f9c9b44e6bf147e6757",
+  "id": "sf-lion-from-austria-687db9",
+  "bytes": 882852,
+  "tris": 4146,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 27965452
+ },
+ {
+  "uid": "2a39b038bb5b479ca2b38af44ac8e573",
+  "id": "sf-83-30-mm-2a39b0",
+  "bytes": 98408,
+  "tris": 22202,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 688416
+ },
+ {
+  "uid": "06b7fb820376456699ee6224b80a6f0c",
+  "id": "sf-dirty-plaster-wall-with-rusty-door-06b7fb",
+  "bytes": 513308,
+  "tris": 24984,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8143444
+ },
+ {
+  "uid": "4a4998dd31064688988d6555050a8943",
+  "id": "sf-fuse-box-made-of-bricks-4a4998",
+  "bytes": 1793012,
+  "tris": 40000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 30408104
+ },
+ {
+  "uid": "9ea847c2186a437193d310aef7504998",
+  "id": "sf-burned-down-house-hull-uk-drone-3d-scan-9ea847",
+  "bytes": 2038060,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16478832
+ },
+ {
+  "uid": "952de0b4118649218e76c09181e9c7b6",
+  "id": "sf-gymnast-girls-sculpture-952de0",
+  "bytes": 5646000,
+  "tris": 199978,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 51229648
+ },
+ {
+  "uid": "48b2ce1eb4c94d05a5299451ec4ffe4d",
+  "id": "sf-galia-melon-48b2ce",
+  "bytes": 721520,
+  "tris": 1152,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 27402216
+ },
+ {
+  "uid": "23958fcd1ced483b93b5990ba7eed4da",
+  "id": "sf-huge-tree-with-vein-23958f",
+  "bytes": 1964276,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17359184
+ },
+ {
+  "uid": "a52b0b6a01424388aab88da8b8076662",
+  "id": "sf-wooden-native-american-a52b0b",
+  "bytes": 2511072,
+  "tris": 224245,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 97613888
+ },
+ {
+  "uid": "62ccb0b9b21f447c9a812916e89c4b68",
+  "id": "sf-hampstead-garden-suburb-free-church-62ccb0",
+  "bytes": 7026932,
+  "tris": 199975,
+  "maxTexture": 2048,
+  "textures": 9,
+  "rawBytes": 52573384
+ },
+ {
+  "uid": "77ed364387b147bf9fbe9c7e52cb7cd3",
+  "id": "sf-beauvoorde-castle-77ed36",
+  "bytes": 1608092,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 28504468
+ },
+ {
+  "uid": "3d77ea30e9ee49df93844c64b12646a1",
+  "id": "sf-brick-campfire-3d77ea",
+  "bytes": 1116260,
+  "tris": 9370,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 41108568
+ },
+ {
+  "uid": "25301a456e2e4a50ad1c66d19a35149e",
+  "id": "sf-princess-peach-nintendo-wii-controller-25301a",
+  "bytes": 273860,
+  "tris": 19485,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 4620360
+ },
+ {
+  "uid": "e3df2710d61747f89410af7fd356609e",
+  "id": "sf-001524-heavenly-melodies-angel-dance-e3df27",
+  "bytes": 851324,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 39941148
+ },
+ {
+  "uid": "68d3778490cc48fd85a8487b3fa26e6d",
+  "id": "sf-rusty-dachshund-boot-scraper-68d377",
+  "bytes": 1473376,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11895428
+ },
+ {
+  "uid": "70e6bf107c03493eb9c6a872c8425e1c",
+  "id": "sf-koyun-island-turkey-kekova-3d-scan-70e6bf",
+  "bytes": 623644,
+  "tris": 69754,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 5785468
+ },
+ {
+  "uid": "3ae509d36f0646ee8ca175f12598066c",
+  "id": "sf-chateau-de-la-hulpe-3ae509",
+  "bytes": 2031112,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 23551188
+ },
+ {
+  "uid": "04022d1eb10f4c0f82338f21365ab235",
+  "id": "sf-zatec-synagogue-rosette-window-04022d",
+  "bytes": 1299512,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 19820640
+ },
+ {
+  "uid": "c45af57d9a3c47a58da36db2a5d425dd",
+  "id": "sf-dog-toy-rope-3d-scan-c45af5",
+  "bytes": 1347300,
+  "tris": 180000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10315928
+ },
+ {
+  "uid": "8870b50bb7b745918da03a1431e4bd90",
+  "id": "sf-man-fighting-lion-statue-photogrammetry-8870b5",
+  "bytes": 998992,
+  "tris": 35680,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 31436032
+ },
+ {
+  "uid": "85bf3b96e63b48f69e8a0523db5e3020",
+  "id": "sf-bracelet-85bf3b",
+  "bytes": 1105828,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20174524
+ },
+ {
+  "uid": "d291853f8e9b4d4b851e54a1211a3efc",
+  "id": "sf-apple-pie-d29185",
+  "bytes": 1805288,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 35662676
+ },
+ {
+  "uid": "53227ffa850443d5ad7cbba531b4ab81",
+  "id": "sf-ruins-on-the-law-scotland-53227f",
+  "bytes": 2028764,
+  "tris": 80000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 14019532
+ },
+ {
+  "uid": "5e71533525c64595b4efbcc0cab2c17c",
+  "id": "sf-beige-stone-wall-5e7153",
+  "bytes": 841748,
+  "tris": 14985,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10957804
+ },
+ {
+  "uid": "04f8b82a5e4f41dbb01c3c1493e841b0",
+  "id": "sf-metal-ore-04f8b8",
+  "bytes": 252592,
+  "tris": 4414,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 3765172
+ },
+ {
+  "uid": "7dc7e6cb76364ec592273389f5791e40",
+  "id": "sf-junkpile-7dc7e6",
+  "bytes": 3005936,
+  "tris": 166397,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18420196
+ },
+ {
+  "uid": "e1bed2bd22194f599fbce908d731591a",
+  "id": "sf-komainu-shibamata-taishakuten-e1bed2",
+  "bytes": 2731296,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 31727296
+ },
+ {
+  "uid": "2173fa23183d4241bd4e3857cc64b506",
+  "id": "sf-married-couple-sculpture-2173fa",
+  "bytes": 3077724,
+  "tris": 199987,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 29528052
+ },
+ {
+  "uid": "6807cf4a3c8748aeb34acebd5debe649",
+  "id": "sf-statue-of-liberty-3d-scan-6807cf",
+  "bytes": 901652,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 29219448
+ },
+ {
+  "uid": "c2f82e5db44749149cd57dc65961a062",
+  "id": "sf-gear-c2f82e",
+  "bytes": 222280,
+  "tris": 53080,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1276556
+ },
+ {
+  "uid": "08e6e2d6e1ba426c92083cdaba13a2f5",
+  "id": "sf-jan-kaplicky-drawings-university-of-gree-08e6e2",
+  "bytes": 18586272,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 74902516
+ },
+ {
+  "uid": "0d79a343d81c4bac8be94994af7a3ecf",
+  "id": "sf-closed-french-store-zenfone-tango-scan-0d79a3",
+  "bytes": 2233812,
+  "tris": 199908,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20186988
+ },
+ {
+  "uid": "8d4fb093e79b4750ade48f8f8c1a02fd",
+  "id": "sf-nelson-s-column-lion-quick-and-dirty-8d4fb0",
+  "bytes": 2177568,
+  "tris": 229703,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 89422980
+ },
+ {
+  "uid": "6ed5b9b4a8d74033beefea458494493d",
+  "id": "sf-red-car-wreck-3d-scan-6ed5b9",
+  "bytes": 3066756,
+  "tris": 218153,
+  "maxTexture": 1024,
+  "textures": 4,
+  "rawBytes": 53231408
+ },
+ {
+  "uid": "4bb0c24f0454468d9731600223801e3b",
+  "id": "sf-rusty-ship-bollard-4bb0c2",
+  "bytes": 822996,
+  "tris": 28988,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9711708
+ },
+ {
+  "uid": "2ef72f27493745b2a3f5f2e62f791362",
+  "id": "sf-jezek-hedgehog-public-art-2ef72f",
+  "bytes": 2202112,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 39389012
+ },
+ {
+  "uid": "61109866fd9b4f91a9f608f14ba12cbc",
+  "id": "sf-dead-fly-611098",
+  "bytes": 6449324,
+  "tris": 294910,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 39568936
+ },
+ {
+  "uid": "afb9fc70f0b0494390bab94c2c0919b8",
+  "id": "sf-london-afb9fc",
+  "bytes": 1908484,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 49392904
+ },
+ {
+  "uid": "feaf2831f51c42338e8fdc0a129b7f97",
+  "id": "sf-porta-galliera-feaf28",
+  "bytes": 12111796,
+  "tris": 504159,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 61465536
+ },
+ {
+  "uid": "0b4fecc45b224a77aad65f3cf76b5ed5",
+  "id": "sf-mortuary-house-0b4fec",
+  "bytes": 1911212,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16099388
+ },
+ {
+  "uid": "c77d9d9bb06e407ca54def86dcf89dc6",
+  "id": "sf-main-dolmen-of-r-zhane-c77d9d",
+  "bytes": 11831760,
+  "tris": 410949,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 70699816
+ },
+ {
+  "uid": "9c901c3293b74704b18d7004667e16ad",
+  "id": "sf-beardpapa-s-s-mores-puff-scan-9c901c",
+  "bytes": 587988,
+  "tris": 81193,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 5036468
+ },
+ {
+  "uid": "a031bfebae4542cd8a6eaa8de5de58fb",
+  "id": "sf-catholic-relief-roman-church-nmp-on-the-a031bf",
+  "bytes": 1219096,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20149328
+ },
+ {
+  "uid": "eb33e8135da042bdb429500144c1ce11",
+  "id": "sf-maya-wood-carving-i-eb33e8",
+  "bytes": 1319172,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 124572180
+ },
+ {
+  "uid": "17b256653dc74c80ad03f2c7d4036742",
+  "id": "sf-masada-17b256",
+  "bytes": 2041120,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 24825732
+ },
+ {
+  "uid": "cd50df47d2f6423696a50a5a36f7a511",
+  "id": "sf-weathered-plastic-garden-chair-cd50df",
+  "bytes": 476944,
+  "tris": 30013,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9431356
+ },
+ {
+  "uid": "b623a28f15f4420f88d2ec57d8cce7a5",
+  "id": "sf-giant-s-causeway-wall-northern-ireland-b623a2",
+  "bytes": 561372,
+  "tris": 52149,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 6180164
+ },
+ {
+  "uid": "1bfcd781186c4efeaea65a6688d92bf9",
+  "id": "sf-010492-1510-zoom-location-002-mars-hiris-1bfcd7",
+  "bytes": 1649112,
+  "tris": 199988,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 11278552
+ },
+ {
+  "uid": "1bebc80804264b3fbaccf08274ca70ec",
+  "id": "sf-unit15-2017-university-of-greenwich-1bebc8",
+  "bytes": 17708892,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 71432636
+ },
+ {
+  "uid": "7d3bd717e22b4ba6bb90333bafe8e173",
+  "id": "sf-mask-7d3bd7",
+  "bytes": 1516772,
+  "tris": 200267,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 25064696
+ },
+ {
+  "uid": "a3e40e1540ed41fc95a9d6278b06c06b",
+  "id": "sf-apple-stop-motion-animation-a3e40e",
+  "bytes": 23298272,
+  "tris": 549948,
+  "maxTexture": 2048,
+  "textures": 22,
+  "rawBytes": 313307320
+ },
+ {
+  "uid": "5369f9f1436a458582074ca88471d330",
+  "id": "sf-wooden-planks-bonded-with-metal-buckles-5369f9",
+  "bytes": 1059996,
+  "tris": 14997,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 17232496
+ },
+ {
+  "uid": "98b5c48866674ab1b95af3a747fd90c6",
+  "id": "sf-aspen-grass-stump-98b5c4",
+  "bytes": 1852548,
+  "tris": 29995,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 52080464
+ },
+ {
+  "uid": "e0d23bfc1bb94cda8c96f10d397bb98d",
+  "id": "sf-coprinus-mushroom-free-e0d23b",
+  "bytes": 3056548,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 55841608
+ },
+ {
+  "uid": "363f584aa9ca4a979a21ee9907958825",
+  "id": "sf-international-space-station-3d-scan-363f58",
+  "bytes": 2031260,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 14738640
+ },
+ {
+  "uid": "67d854806cf049d9b701fd295d24205d",
+  "id": "sf-drill-3d-scan-67d854",
+  "bytes": 978480,
+  "tris": 199990,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 58363108
+ },
+ {
+  "uid": "74b371b4b1f545fa99438bcfa9239624",
+  "id": "sf-scanned-forest-road-section-74b371",
+  "bytes": 3058324,
+  "tris": 29999,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 59930804
+ },
+ {
+  "uid": "fda00a5c567d40e295819fddfbfc8995",
+  "id": "sf-yuri-gagarin-fda00a",
+  "bytes": 1786524,
+  "tris": 97787,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 10567164
+ },
+ {
+  "uid": "5561d8c8fefa46709f5617f346cc3741",
+  "id": "sf-dirty-white-blanket-5561d8",
+  "bytes": 1391116,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14507648
+ },
+ {
+  "uid": "244a4db378ff46ea82c6e495f4221d7c",
+  "id": "sf-decorative-snake-244a4d",
+  "bytes": 1702308,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 28140680
+ },
+ {
+  "uid": "fd9fa0921b884b18a3c0661ba1d6b668",
+  "id": "sf-wooden-planks-fd9fa0",
+  "bytes": 1957168,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 41298308
+ },
+ {
+  "uid": "8e348cbfefed405eb28ce8e7b1ba6fdc",
+  "id": "sf-manhattan-apartment-point-cloud-8e348c",
+  "bytes": 52935248,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 201017504
+ },
+ {
+  "uid": "fdb45e7ebafe4638b7a6b12644ab779c",
+  "id": "sf-boundary-way-road-marker-stone-fdb45e",
+  "bytes": 2389448,
+  "tris": 179999,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 34868784
+ },
+ {
+  "uid": "855acd907c204e13a3d2e8952d755794",
+  "id": "sf-abstract-composition-statue-855acd",
+  "bytes": 1954592,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20228856
+ },
+ {
+  "uid": "2524266d160a4600b6e4cfd724ab10c9",
+  "id": "sf-3d-scan-wooden-sunchair-duplicated-versi-252426",
+  "bytes": 1897936,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 24848856
+ },
+ {
+  "uid": "3026331cb9f24b76b7f4bc8475e8a8e7",
+  "id": "sf-chateau-de-malain-france-302633",
+  "bytes": 2936204,
+  "tris": 204761,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 34605732
+ },
+ {
+  "uid": "15092a49842340858deb3d55000a80ed",
+  "id": "sf-26-25-x15mm-15092a",
+  "bytes": 583304,
+  "tris": 164904,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 4743516
+ },
+ {
+  "uid": "f8c8b0baba994513a378e75a6993f60d",
+  "id": "sf-alien-toy-3d-scan-f8c8b0",
+  "bytes": 1410624,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11859140
+ },
+ {
+  "uid": "53c23bd387cb4b66ad3f08170cad9298",
+  "id": "sf-holmfirth-town-centre-west-yorkshire-53c23b",
+  "bytes": 8550272,
+  "tris": 620160,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 177332648
+ },
+ {
+  "uid": "172d1d3342144f4db474a04bf71ad3de",
+  "id": "sf-3d-scan-construction-debris-172d1d",
+  "bytes": 6170660,
+  "tris": 419177,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 139114252
+ },
+ {
+  "uid": "bcab9ed8c071482e8d52b3e3020edefc",
+  "id": "sf-photorealistic-trash-can-low-poly-bcab9e",
+  "bytes": 1496744,
+  "tris": 2220,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 9247128
+ },
+ {
+  "uid": "72e9f73293654198a53f7690a2f13cd1",
+  "id": "sf-pfalzgrafenstein-castle-72e9f7",
+  "bytes": 2104068,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 24187336
+ },
+ {
+  "uid": "8c2c1114d3a6495ab26e80ec96bf46cb",
+  "id": "sf-fish-holding-plate-8c2c11",
+  "bytes": 801528,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 35467036
+ },
+ {
+  "uid": "a2380ad0890448849e5fed6429ded33e",
+  "id": "sf-carved-opal-photogrammetry-a2380a",
+  "bytes": 402528,
+  "tris": 36336,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 3876256
+ },
+ {
+  "uid": "75635e29a283497b878ab297287619c3",
+  "id": "sf-014153-1430-overview-mars-hirise-75635e",
+  "bytes": 1489148,
+  "tris": 160922,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11682492
+ },
+ {
+  "uid": "f64c9197ce4141ffb6f5357a665efba8",
+  "id": "sf-scanned-dead-tree-fungus-8k-f64c91",
+  "bytes": 1334036,
+  "tris": 30000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 31121680
+ },
+ {
+  "uid": "15b200af9edd472490f10cf1188a2962",
+  "id": "sf-rosita-wicke-castillo-de-la-mota-san-seb-15b200",
+  "bytes": 2172000,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 28308928
+ },
+ {
+  "uid": "9009b5f97e4f4310a060277dcbcd3d29",
+  "id": "sf-112-163hx151mm-9009b5",
+  "bytes": 132640,
+  "tris": 30092,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 880940
+ },
+ {
+  "uid": "088e7258d1db4315a04e5744414ae1b4",
+  "id": "sf-guerrilla-knitting-088e72",
+  "bytes": 9621264,
+  "tris": 366233,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 53089784
+ },
+ {
+  "uid": "820828e30cfd42e6882ab43d9e6a55e4",
+  "id": "sf-case-820828",
+  "bytes": 2154244,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 40955060
+ },
+ {
+  "uid": "21580cc79c424ac2a7cd8d5602d8fa32",
+  "id": "sf-statues-21580c",
+  "bytes": 1380696,
+  "tris": 50006,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 17377840
+ },
+ {
+  "uid": "539be48602fe40748fb383885b1f3046",
+  "id": "sf-guard-statue-539be4",
+  "bytes": 954496,
+  "tris": 66685,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11782972
+ },
+ {
+  "uid": "10a12b66935c44a5a653be32d38ed13b",
+  "id": "sf-large-cut-beech-tree-forest-scene-free-10a12b",
+  "bytes": 3643644,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 48976124
+ },
+ {
+  "uid": "b22c72853f624c00b484e8cb16d19dcd",
+  "id": "sf-breast-handbag-photogrammetry-scan-b22c72",
+  "bytes": 1652632,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16805164
+ },
+ {
+  "uid": "9f5edb6287284b9885fc833982d11962",
+  "id": "sf-stadium-under-construction-drone-3d-scan-9f5edb",
+  "bytes": 2139188,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 32278776
+ },
+ {
+  "uid": "e74e61f660e84382956634b0e2a6d61c",
+  "id": "sf-timmy-doll-reality-capture-rctoychalleng-e74e61",
+  "bytes": 1041016,
+  "tris": 99992,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10619204
+ },
+ {
+  "uid": "0ec91996aa1d40f78a8bfaa4b07b1676",
+  "id": "sf-white-outdoor-house-wall-0ec919",
+  "bytes": 1428488,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11843440
+ },
+ {
+  "uid": "f539b493dcc34ce2b737c1a5216bd3c7",
+  "id": "sf-surf-shaping-room-f539b4",
+  "bytes": 2176904,
+  "tris": 107999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20827372
+ },
+ {
+  "uid": "daecf764283a4b2c8ae543505604a9f3",
+  "id": "sf-raw-3d-photoscan-3d-cube-leafs-daecf7",
+  "bytes": 3957916,
+  "tris": 283939,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 63308968
+ },
+ {
+  "uid": "c828f73e163f4225bbfad39c49ea38be",
+  "id": "sf-bernese-fountain-scan-test-c828f7",
+  "bytes": 1028656,
+  "tris": 19861,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 23319264
+ },
+ {
+  "uid": "eed34c860d21413482d292a844ba8f02",
+  "id": "sf-aphrodite-eed34c",
+  "bytes": 834688,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 7654980
+ },
+ {
+  "uid": "def7ae128fbd45f88104051f0a4d3443",
+  "id": "sf-fiat-500-c-belvedere-1950-heavily-decaye-def7ae",
+  "bytes": 1072884,
+  "tris": 49936,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 12407256
+ },
+ {
+  "uid": "6251c10aa09548039bd4e9616ba3d7c1",
+  "id": "sf-mushrooms-6251c1",
+  "bytes": 668104,
+  "tris": 56383,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 25345744
+ },
+ {
+  "uid": "050017bf46f5468cbf4cafc691b725ee",
+  "id": "sf-medusa-statue-050017",
+  "bytes": 2343124,
+  "tris": 48924,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 62255068
+ },
+ {
+  "uid": "c1f579c5cde4480bb0e566d2ef27b90e",
+  "id": "sf-old-rusted-barrel-3d-scan-c1f579",
+  "bytes": 1372324,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18787048
+ },
+ {
+  "uid": "99d56559117048759a4e9dbd0973b18b",
+  "id": "sf-crab-carapace-test-99d565",
+  "bytes": 933116,
+  "tris": 100000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9797968
+ },
+ {
+  "uid": "f0cbd49842ca4a1bb68a6d0bc1eda2e1",
+  "id": "sf-pulpit-rock-norway-drone-3d-scan-f0cbd4",
+  "bytes": 1190636,
+  "tris": 161119,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8824404
+ },
+ {
+  "uid": "3cdf9971fa784dea9d9737258e613c08",
+  "id": "sf-church-santa-maria-della-pieta-3cdf99",
+  "bytes": 2356468,
+  "tris": 199985,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 43519020
+ },
+ {
+  "uid": "af5633a18df14491a695397d55ed8d63",
+  "id": "sf-jokulsarlon-glacier-cave-iceland-3d-scan-af5633",
+  "bytes": 1568324,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15343516
+ },
+ {
+  "uid": "543e0a94cba2479ca99bf4460eecc754",
+  "id": "sf-turkansaari-raw-543e0a",
+  "bytes": 2684008,
+  "tris": 199986,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 28459592
+ },
+ {
+  "uid": "d9e312ac6236471dac7382fc9dc93fe9",
+  "id": "sf-amyntas-tombs-fethiye-turkey-d9e312",
+  "bytes": 2613036,
+  "tris": 199972,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 21712160
+ },
+ {
+  "uid": "93c8d898046e4f03839dff06a7272af0",
+  "id": "sf-mouflon-scanned-with-heges-app-on-iphone-93c8d8",
+  "bytes": 1123100,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 126951160
+ },
+ {
+  "uid": "9a1bae19c7774a41b18f664c290b8291",
+  "id": "sf-minnis-rock-hastings-uk-9a1bae",
+  "bytes": 3453380,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 26225256
+ },
+ {
+  "uid": "8ef5ee74a35e4ffc8eeff40291fdecd8",
+  "id": "sf-chest-tomb-of-edward-burford-c-1800-8ef5ee",
+  "bytes": 3587092,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 25892712
+ },
+ {
+  "uid": "ed0963e93083493eaaf20f985dccb9c9",
+  "id": "sf-kitchen-dining-room-dot3d-dpi-10-kit-5-p-ed0963",
+  "bytes": 16322320,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 187200384
+ },
+ {
+  "uid": "73439cab573a4d74b69f834ba76660d5",
+  "id": "sf-white-leaf-collection-bag-with-garbage-73439c",
+  "bytes": 3008948,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 38218628
+ },
+ {
+  "uid": "4235fb23325e4a339f7efa4ebd3a22a1",
+  "id": "sf-jezek-hedgehog-2021-4235fb",
+  "bytes": 2210048,
+  "tris": 188980,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 30869120
+ },
+ {
+  "uid": "f211642811ef456a945a59289dc9ac5a",
+  "id": "sf-lawn-composter-box-comparison-f21164",
+  "bytes": 3200348,
+  "tris": 180000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 41996952
+ },
+ {
+  "uid": "3d5408e7b7c84c8a931b80ca8ba69c11",
+  "id": "sf-fort-gorges-casco-bay-maine-drone-3d-sca-3d5408",
+  "bytes": 1601800,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15386524
+ },
+ {
+  "uid": "0112c0c4d58d47499d348e66690ceaf6",
+  "id": "sf-odin-s-enigma-a-photogrammetry-experimen-0112c0",
+  "bytes": 2073324,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17349604
+ },
+ {
+  "uid": "3f199cb6fb6b463f8ec70441b24f16f4",
+  "id": "sf-pedestal-photogrammetry-3f199c",
+  "bytes": 2003332,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 43517124
+ },
+ {
+  "uid": "6827e196ecbd41c08938fe8effbcb8e0",
+  "id": "sf-3d-scan-the-log-6827e1",
+  "bytes": 3096984,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 29392556
+ },
+ {
+  "uid": "be4180519ec44b5c9ca90fcd0d064abd",
+  "id": "sf-miniland-ostravar-duo-st1-comp-v1-be4180",
+  "bytes": 2017592,
+  "tris": 51072,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 51129172
+ },
+ {
+  "uid": "bd71cd181781411d98641117746f7a40",
+  "id": "sf-free-tree-scan-bd71cd",
+  "bytes": 3378372,
+  "tris": 199985,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 75831768
+ },
+ {
+  "uid": "b051ea14852644aaa1ab14007247e34a",
+  "id": "sf-porcelain-saucer-b051ea",
+  "bytes": 178728,
+  "tris": 10000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8693084
+ },
+ {
+  "uid": "0dafe595a3284cdfb4dfee9509f51b26",
+  "id": "sf-quarry-tire-scan-0dafe5",
+  "bytes": 917924,
+  "tris": 27782,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 19514492
+ },
+ {
+  "uid": "0d0ec0c493f74b35bcc2d2d009b684db",
+  "id": "sf-133-70-80mm-0d0ec0",
+  "bytes": 1432376,
+  "tris": 384034,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 14091328
+ },
+ {
+  "uid": "5d44304c037343749508168743070eab",
+  "id": "sf-kara-5d4430",
+  "bytes": 1105220,
+  "tris": 199362,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11555256
+ },
+ {
+  "uid": "bceb23fc3f134d16a178fa1ca9e73300",
+  "id": "sf-dolphin-skull-3d-scan-bceb23",
+  "bytes": 953992,
+  "tris": 199987,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 44524644
+ },
+ {
+  "uid": "98c9f0b127264b6fbd49c5294d65024e",
+  "id": "sf-skull-3d-scan-98c9f0",
+  "bytes": 962312,
+  "tris": 199991,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 75446444
+ },
+ {
+  "uid": "f4ad8d9e411f4beab2048c3f8e4564a4",
+  "id": "sf-nun-outfit-f4ad8d",
+  "bytes": 1305944,
+  "tris": 45606,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 22429268
+ },
+ {
+  "uid": "15c03ae7517b4d3fb2f5e5caa9e8643a",
+  "id": "sf-concrete-wall-no-1-free-photoscan-15c03a",
+  "bytes": 1981812,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 52544092
+ },
+ {
+  "uid": "f4251fdf83ad4fa49761d9c7cd083028",
+  "id": "sf-fire-hydrant-3d-scan-f4251f",
+  "bytes": 1010072,
+  "tris": 30000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 21079908
+ },
+ {
+  "uid": "425c0f63974440ab99c89685ec8428f0",
+  "id": "sf-dog-artec-425c0f",
+  "bytes": 848820,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 37990672
+ },
+ {
+  "uid": "fb56a0d9f2964a7fa0e1a447e1a14cd3",
+  "id": "sf-spear-head-3d-scan-fb56a0",
+  "bytes": 848432,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 27897040
+ },
+ {
+  "uid": "d89c973374374e319946d9dba302c8ae",
+  "id": "sf-easter-bunny-3d-scan-d89c97",
+  "bytes": 836584,
+  "tris": 193064,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 5137040
+ },
+ {
+  "uid": "8639c910531d4d10a7ad8d38cbf2fd97",
+  "id": "sf-scanned-forest-branch-8639c9",
+  "bytes": 1650572,
+  "tris": 30000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 32795920
+ },
+ {
+  "uid": "d2405a2eea14478a871c5279c77fe6df",
+  "id": "sf-etruscan-tomb-d2405a",
+  "bytes": 2483756,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 37138960
+ },
+ {
+  "uid": "300dced89e254757a110b22f1730f35b",
+  "id": "sf-baroque-princess-statue-300dce",
+  "bytes": 1479800,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 25139696
+ },
+ {
+  "uid": "eb0a4b16908f4280baf49209c8725661",
+  "id": "sf-001526-heavenly-melodies-floral-ensemble-eb0a4b",
+  "bytes": 854660,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 38915544
+ },
+ {
+  "uid": "bdb4a5ed00384621b388491e916178a1",
+  "id": "sf-yerba-mate-cup-bdb4a5",
+  "bytes": 1678032,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15481052
+ },
+ {
+  "uid": "3b85f85ad00c42b2bf0b636dae95ce7d",
+  "id": "sf-old-red-wood-tree-stump-3b85f8",
+  "bytes": 4898852,
+  "tris": 221033,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 50583776
+ },
+ {
+  "uid": "64961d40e69743cb97d0f23c3a47167e",
+  "id": "sf-full-body-scanning-rig-64961d",
+  "bytes": 2111128,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 34326020
+ },
+ {
+  "uid": "329a1204959548368d6d24d412ccdf42",
+  "id": "sf-galaxia-temple-burning-man-fest-3d-scan-329a12",
+  "bytes": 1525320,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16219432
+ },
+ {
+  "uid": "fe2efc67c8dc4bc9a842d367067d56b8",
+  "id": "sf-heinz-edelmann-memorial-mural-fe2efc",
+  "bytes": 1272908,
+  "tris": 180765,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 12890016
+ },
+ {
+  "uid": "5f261631fb364a4780617595dee84d75",
+  "id": "sf-amonit-amonite-fossil-5f2616",
+  "bytes": 1077884,
+  "tris": 150000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 7271768
+ },
+ {
+  "uid": "fb693d32a1da444eb959f38d215830fe",
+  "id": "sf-3d-scan-wooden-table-fb693d",
+  "bytes": 1468824,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21613864
+ },
+ {
+  "uid": "3be546411ca148af8780e69151edd69c",
+  "id": "sf-sesame-cheese-pie-3be546",
+  "bytes": 491324,
+  "tris": 10246,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 19927808
+ },
+ {
+  "uid": "7a060e3514dc4c9f8a330d8f830e8010",
+  "id": "sf-lion-from-padua-7a060e",
+  "bytes": 1016600,
+  "tris": 9130,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 32458584
+ },
+ {
+  "uid": "b5860a78f1a44302a25788bb4213f406",
+  "id": "sf-leather-journal-photogrammetry-b5860a",
+  "bytes": 3724872,
+  "tris": 200030,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 74253936
+ },
+ {
+  "uid": "d33ffa8bb8444bc180ea8453c1d36a2f",
+  "id": "sf-ground-3d-scan-challenge-d33ffa",
+  "bytes": 762596,
+  "tris": 10000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 2170712
+ },
+ {
+  "uid": "5b750cb007974a3eb9652c23322f328c",
+  "id": "sf-lion-statue-heaton-hall-manchester-5b750c",
+  "bytes": 1904024,
+  "tris": 153329,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 14288568
+ },
+ {
+  "uid": "ec899d0b6254487fb0fb6f8b111dc642",
+  "id": "sf-male-dancing-animation-ec899d",
+  "bytes": 660792,
+  "tris": 76940,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 4522628
+ },
+ {
+  "uid": "af5c24879313468b807d84ac30d32173",
+  "id": "sf-sandpit-af5c24",
+  "bytes": 1141412,
+  "tris": 46366,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 14641292
+ },
+ {
+  "uid": "69b9070126d54038a0142cbc6c4b4a5e",
+  "id": "sf-car-crash-dot3d-realsense-d415-8-of-pts-69b907",
+  "bytes": 42165712,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 177973388
+ },
+ {
+  "uid": "c4288084f43c4aa7969c9603bd92e7ec",
+  "id": "sf-car-crash-dot3d-dpi-10sr-kit-20-of-pts-c42880",
+  "bytes": 46205924,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 194741636
+ },
+ {
+  "uid": "64389ae0f93441fb8e4c7d39b53c9bf8",
+  "id": "sf-cut-tree-64389a",
+  "bytes": 1566988,
+  "tris": 92731,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 15769000
+ },
+ {
+  "uid": "41b2a6d19f6c44e58d17de0111b25728",
+  "id": "sf-brick-megascan-41b2a6",
+  "bytes": 714288,
+  "tris": 67380,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8578460
+ },
+ {
+  "uid": "494f9fe4305a4700adbc21764a4701d0",
+  "id": "sf-buddhist-decorative-sculpture-494f9f",
+  "bytes": 931776,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 14980968
+ },
+ {
+  "uid": "a8bf8b2b947d4c1d9380321ca15ae448",
+  "id": "sf-old-creepy-grave-cross-a8bf8b",
+  "bytes": 1234700,
+  "tris": 448,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 13082408
+ },
+ {
+  "uid": "a1e1bc2fd1fe412ba624146b142c0017",
+  "id": "sf-crankshaft-3d-scan-a1e1bc",
+  "bytes": 911812,
+  "tris": 199994,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 29250468
+ },
+ {
+  "uid": "d7dd0a08637748e29b995da42cee2154",
+  "id": "sf-fondyushnitsa-d7dd0a",
+  "bytes": 1151900,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 26352652
+ },
+ {
+  "uid": "19b0a9a08f004d31af53c822939ccb6c",
+  "id": "sf-electric-box-19b0a9",
+  "bytes": 2713580,
+  "tris": 199967,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 43325784
+ },
+ {
+  "uid": "b2d4465300d24dbe9d8a44d79476bff1",
+  "id": "sf-ryobi-drill-b2d446",
+  "bytes": 1237760,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21191496
+ },
+ {
+  "uid": "dfa5ac552a274598a9b6cae92148783c",
+  "id": "sf-gear-scan-dfa5ac",
+  "bytes": 871008,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 13326892
+ },
+ {
+  "uid": "9dc85b3f08bf4126818ad7333808d81e",
+  "id": "sf-borghese-gladiator-9dc85b",
+  "bytes": 1710248,
+  "tris": 199990,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 37411972
+ },
+ {
+  "uid": "9c780570f388479d82cb0f21253ab065",
+  "id": "sf-rough-plaster-wall-with-heavy-rusty-slid-9c7805",
+  "bytes": 642732,
+  "tris": 34981,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9537368
+ },
+ {
+  "uid": "b446cf398ff34f2a8cc858ea5d591a65",
+  "id": "sf-khachkar-armenian-cross-stone-b446cf",
+  "bytes": 2438364,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 18298012
+ },
+ {
+  "uid": "560763918bb6488bba4b580a55ea78db",
+  "id": "sf-tree-stump-scene-560763",
+  "bytes": 2408228,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 25167500
+ },
+ {
+  "uid": "ac9c30e8ae8c40da8217981862cc2147",
+  "id": "sf-example-photogrammetry-datasets-free-ac9c30",
+  "bytes": 1121040,
+  "tris": 157510,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11178168
+ },
+ {
+  "uid": "89bd987c0399447fb71c2ea51f07ad33",
+  "id": "sf-the-diver-89bd98",
+  "bytes": 1058756,
+  "tris": 136293,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 19242104
+ },
+ {
+  "uid": "dc20577907284b8590d5c571767db519",
+  "id": "sf-maya-wood-carving-ii-dc2057",
+  "bytes": 1289720,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 91482060
+ },
+ {
+  "uid": "011da7a0ee4e4a04b264d755f1edd04d",
+  "id": "sf-the-couple-011da7",
+  "bytes": 1583924,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14961232
+ },
+ {
+  "uid": "6702121d5a584f42a5f55c8f3e743276",
+  "id": "sf-compressor-scan-670212",
+  "bytes": 911732,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 40638892
+ },
+ {
+  "uid": "985770d18d3941ed97617aeaeec6c539",
+  "id": "sf-18-40-x20mm-985770",
+  "bytes": 817652,
+  "tris": 205818,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 8583792
+ },
+ {
+  "uid": "4a98babf827747469c683566c5a0f298",
+  "id": "sf-103-200-18mm-4a98ba",
+  "bytes": 302244,
+  "tris": 63979,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 2386792
+ },
+ {
+  "uid": "69eef07f96d74d2f99fe7ad37b990715",
+  "id": "sf-chateau-de-radyne-99-7-decimated-69eef0",
+  "bytes": 284880,
+  "tris": 9968,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1557352
+ },
+ {
+  "uid": "9bf776e1bc72429b8d27ced650970cb1",
+  "id": "sf-purple-striped-towel-photogrammetry-scan-9bf776",
+  "bytes": 3269288,
+  "tris": 200009,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 92858584
+ },
+ {
+  "uid": "63a0831423de40899eb8b3c8b675f8cc",
+  "id": "sf-rusty-plate-with-mark-63a083",
+  "bytes": 1221652,
+  "tris": 78797,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 16123884
+ },
+ {
+  "uid": "22bfb76eec484088beafdcab54b9fe6f",
+  "id": "sf-smith-s-tomb-on-st-mary-s-at-finchley-ch-22bfb7",
+  "bytes": 4530948,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 34136476
+ },
+ {
+  "uid": "a1df8d62b15441c894500efea99f1076",
+  "id": "sf-firewood-1-a1df8d",
+  "bytes": 1199388,
+  "tris": 49955,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13964840
+ },
+ {
+  "uid": "afabca804a0149eca565e896d9573a8d",
+  "id": "sf-carved-wood-eagle-mt-10-afabca",
+  "bytes": 1195936,
+  "tris": 199993,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 128649372
+ },
+ {
+  "uid": "c3ebbf10cdc040a0b05ca340bbf6acfe",
+  "id": "sf-mine-sanitary-locomotive-photogrammetry-c3ebbf",
+  "bytes": 3544036,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 47763348
+ },
+ {
+  "uid": "38266808ed964b9dbc5ac40472c81782",
+  "id": "sf-houseleek-haworthia-cactus-isolated-382668",
+  "bytes": 851628,
+  "tris": 118270,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20818724
+ },
+ {
+  "uid": "30d84b38b498430cb0cf0b75a33e0e2b",
+  "id": "sf-wood-logs-pile-3d-scan-30d84b",
+  "bytes": 7754872,
+  "tris": 450744,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 118261388
+ },
+ {
+  "uid": "eadc3036970f4c12bfcca922e553ce13",
+  "id": "sf-echo-in-johnson-city-antiques-showroom-eadc30",
+  "bytes": 36722724,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 129683028
+ },
+ {
+  "uid": "aa1079ad9aac440da348d4b48bdcdad2",
+  "id": "sf-polypore-fungus-photogrammetry-scan-aa1079",
+  "bytes": 1996732,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 23240008
+ },
+ {
+  "uid": "172e332ec0ef40a8aedaa43a81d3fb6d",
+  "id": "sf-wrecked-2018-toyota-tundra-raw-scan-172e33",
+  "bytes": 2816300,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21044568
+ },
+ {
+  "uid": "471ff094283d43e7b53792a64575b957",
+  "id": "sf-handmade-doll-471ff0",
+  "bytes": 1303924,
+  "tris": 171102,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8745524
+ },
+ {
+  "uid": "79bdaeed5cfb4aff8483ca3a09055478",
+  "id": "sf-hotel-gornergrat-kulm-zermett-switzerlan-79bdae",
+  "bytes": 2037824,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 19459760
+ },
+ {
+  "uid": "3681f409eaa2499bbcf09f81e5cadd76",
+  "id": "sf-pytlacka-puska-1813-poacher-rifle-3681f4",
+  "bytes": 951108,
+  "tris": 160166,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11347824
+ },
+ {
+  "uid": "dc8f6675b7ce4a52a6f94aef8cd56fb7",
+  "id": "sf-wooden-stone-on-backyard-garden-dc8f66",
+  "bytes": 551852,
+  "tris": 23636,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4959908
+ },
+ {
+  "uid": "d556b9063c5444d990af27311072cd03",
+  "id": "sf-an-assortment-of-cupcake-toppers-d556b9",
+  "bytes": 1409400,
+  "tris": 199985,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 33621708
+ },
+ {
+  "uid": "5f3b757970f348ffb6bd6c5d3701f7c4",
+  "id": "sf-pt-76-light-tank-raw-scan-from-fort-hood-5f3b75",
+  "bytes": 1420184,
+  "tris": 121696,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13028760
+ },
+ {
+  "uid": "260b582f9fc84a9ea48d0d72591223a4",
+  "id": "sf-water-fountain-dieulefit-france-260b58",
+  "bytes": 2026308,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 52860480
+ },
+ {
+  "uid": "2c298c6d21304ef1b11f74978b41ff5e",
+  "id": "sf-hypnotic-beetroot-2c298c",
+  "bytes": 1146364,
+  "tris": 108698,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 11472036
+ },
+ {
+  "uid": "1a49bbbe5bf644acb3d75f848ef0e5b9",
+  "id": "sf-red-and-white-flowers-1a49bb",
+  "bytes": 903812,
+  "tris": 144109,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8833440
+ },
+ {
+  "uid": "b2d1e4fcbc2545b8893e435a5d2a563b",
+  "id": "sf-owl-statuette-b2d1e4",
+  "bytes": 1956864,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 65416892
+ },
+ {
+  "uid": "e324cfef06534c60955dc5f05bc447ce",
+  "id": "sf-cadbury-cream-egg-3dst43-e324cf",
+  "bytes": 1283036,
+  "tris": 49966,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 30950552
+ },
+ {
+  "uid": "43e4343678b347658b1f1e49b46dec0a",
+  "id": "sf-karlova-koruna-chateau-43e434",
+  "bytes": 2543248,
+  "tris": 199970,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 37181576
+ },
+ {
+  "uid": "fd327d4ef1a34f9bbadbdaa00b47fdc5",
+  "id": "sf-tree-shadow-fd327d",
+  "bytes": 26422032,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 154314944
+ },
+ {
+  "uid": "16da9cd6c9ff47619341ac7e44722ff9",
+  "id": "sf-ceramic-heart-16da9c",
+  "bytes": 567784,
+  "tris": 29100,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 11530316
+ },
+ {
+  "uid": "a0959129210a4685ad727ea0f3764e7d",
+  "id": "sf-residential-bedrooms-dot3d-dpi-10-kit-7-a09591",
+  "bytes": 43885212,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 184830376
+ },
+ {
+  "uid": "bc4e74efba5c450a9d72faa7084a69cc",
+  "id": "sf-dirty-and-dusty-old-street-trash-can-bri-bc4e74",
+  "bytes": 2618012,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 44576340
+ },
+ {
+  "uid": "6c13006f595d496f8e5b0f421b7d3c9a",
+  "id": "sf-pillars-scultpure-6c1300",
+  "bytes": 1277372,
+  "tris": 174424,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21312096
+ },
+ {
+  "uid": "5f128387491540f7b6e07959a8818245",
+  "id": "sf-mystere-venus-de-loctudy-5f1283",
+  "bytes": 1368512,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 12268064
+ },
+ {
+  "uid": "828794d5be144cca98be95dc351b5664",
+  "id": "sf-brass-ethiopian-cross-ii-artec-micro-3d-828794",
+  "bytes": 881124,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 33135144
+ },
+ {
+  "uid": "01bed106918f46a7a54680b599f2ee9b",
+  "id": "sf-zatec-synagogue-vaulted-ceiling-interior-01bed1",
+  "bytes": 2501844,
+  "tris": 219538,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 40225124
+ },
+ {
+  "uid": "67004688711f486fa0689595dc116eef",
+  "id": "sf-porsche-993-gt2-raw-scan-670046",
+  "bytes": 1899536,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21963600
+ },
+ {
+  "uid": "0cb8fb481c554408ba69d2161792fc59",
+  "id": "sf-beach-stone-2-0cb8fb",
+  "bytes": 6703352,
+  "tris": 175770,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 44043728
+ },
+ {
+  "uid": "e93553d6796644818ee7bded37d3b5d9",
+  "id": "sf-taiyaki-naruto-taiyaki-high-poly-e93553",
+  "bytes": 649308,
+  "tris": 16128,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 4762024
+ },
+ {
+  "uid": "3817d0662eba4ccfb8c0d7957f07e0c8",
+  "id": "sf-soda-can-3d-scan-3817d0",
+  "bytes": 1675716,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 33520924
+ },
+ {
+  "uid": "234b925cf1ee45c8ab70d6653fc5deaf",
+  "id": "sf-66-60hx20mm-234b92",
+  "bytes": 230520,
+  "tris": 53588,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1543344
+ },
+ {
+  "uid": "5410c00f7765459cbd93cda80b995793",
+  "id": "sf-old-english-tombstone-xix-century-5410c0",
+  "bytes": 2912836,
+  "tris": 167922,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 26653320
+ },
+ {
+  "uid": "574936e3c130421e97e503c8dba2e5d5",
+  "id": "sf-pile-of-brick-debris-on-the-grass-574936",
+  "bytes": 1178416,
+  "tris": 49985,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13292128
+ },
+ {
+  "uid": "9a82df69ffee4c6faa28f75e65ba192c",
+  "id": "sf-logitech-mx-master-3s-revopoint-mini-3d-9a82df",
+  "bytes": 888172,
+  "tris": 199994,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 81228684
+ },
+ {
+  "uid": "d10ca08b78244e869cd55df35d1a80b8",
+  "id": "sf-old-green-chair-d10ca0",
+  "bytes": 1963432,
+  "tris": 70007,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 47272112
+ },
+ {
+  "uid": "9e3435fd17f3454e929395a7eba14f54",
+  "id": "sf-round-granite-stone-9e3435",
+  "bytes": 1142708,
+  "tris": 40000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 14997856
+ },
+ {
+  "uid": "56c73f45fd8b4f8b8b513454b28e8e6d",
+  "id": "sf-wood-logs-google-tango-3d-scan-56c73f",
+  "bytes": 2507508,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 23400644
+ },
+ {
+  "uid": "fc292477db334de58deb75668a53ddcd",
+  "id": "sf-zatec-synagogue-exteriror-3d-print-previ-fc2924",
+  "bytes": 1592948,
+  "tris": 199896,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 12456288
+ },
+ {
+  "uid": "9153b5c077804cffa3edc76f7e05a841",
+  "id": "sf-snowy-aston-martin-v12-db11-low-poly-3d-9153b5",
+  "bytes": 444304,
+  "tris": 39999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4226848
+ },
+ {
+  "uid": "3a2fcf4473a646d2b1f12d52b03da068",
+  "id": "sf-f4u-corsair-fighter-plane-raw-scan-3a2fcf",
+  "bytes": 2484940,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 25085632
+ },
+ {
+  "uid": "18f24469e8364c0e81efebe88548e8f5",
+  "id": "sf-adaptive-modeling-sheepi-18f244",
+  "bytes": 119648,
+  "tris": 3432,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 1170480
+ },
+ {
+  "uid": "17bda27b1ce044cdaeb5290ae93421af",
+  "id": "sf-large-cut-oak-tree-stump-free-17bda2",
+  "bytes": 1904444,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15522484
+ },
+ {
+  "uid": "a194b5cc81f84c07b0823519cadcb7dc",
+  "id": "sf-low-poly-3d-scan-trunk-a194b5",
+  "bytes": 570124,
+  "tris": 26871,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 4331756
+ },
+ {
+  "uid": "ec2c92de034242e884a7a6476763077a",
+  "id": "sf-single-sofa-free-ec2c92",
+  "bytes": 2822344,
+  "tris": 70604,
+  "maxTexture": 2048,
+  "textures": 5,
+  "rawBytes": 20170776
+ },
+ {
+  "uid": "5d5ac26ffb4e4ab2b1d6d19c1ec6b2c0",
+  "id": "sf-drill-screwdriver-5d5ac2",
+  "bytes": 911240,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 7844524
+ },
+ {
+  "uid": "92431d12ac35401f9e0fb99a08c96a66",
+  "id": "sf-239-507x460-58mm-92431d",
+  "bytes": 421456,
+  "tris": 94297,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 2401800
+ },
+ {
+  "uid": "8b48042c31bf4f1e83594c0272872b9a",
+  "id": "sf-scanned-fireplace-8b4804",
+  "bytes": 1745336,
+  "tris": 14971,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 34277312
+ },
+ {
+  "uid": "9accf56640444c0d9547e03dee7c1043",
+  "id": "sf-mushrooms-9accf5",
+  "bytes": 795472,
+  "tris": 45993,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 8184696
+ },
+ {
+  "uid": "431bfdcc8e164b0c8b5fbacabfa25aff",
+  "id": "sf-antique-statue-431bfd",
+  "bytes": 866284,
+  "tris": 199997,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 100988016
+ },
+ {
+  "uid": "643e3c008f1e4c7b8c49c3b938eb1701",
+  "id": "sf-power-plant-duct-line-643e3c",
+  "bytes": 2107376,
+  "tris": 199587,
+  "maxTexture": 512,
+  "textures": 4,
+  "rawBytes": 50052320
+ },
+ {
+  "uid": "622a2f58e3154af9ae1c80ef61bb41f3",
+  "id": "sf-cesto-de-pedras-e-sementes-622a2f",
+  "bytes": 1906300,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17799132
+ },
+ {
+  "uid": "8b5c06f4ba06487cae0cb660a3b69a84",
+  "id": "sf-fila-sneakers-2-8b5c06",
+  "bytes": 477516,
+  "tris": 22438,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 5766124
+ },
+ {
+  "uid": "4d2fc4a987664fc3a9c2a8e6fbb7ef4c",
+  "id": "sf-concrete-graffiti-pier-no-2-free-photosc-4d2fc4",
+  "bytes": 1146392,
+  "tris": 114385,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9214700
+ },
+ {
+  "uid": "a1bb36499d504bfeb2823044de355f75",
+  "id": "sf-curbs-3d-scan-a1bb36",
+  "bytes": 2390628,
+  "tris": 199979,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 27997368
+ },
+ {
+  "uid": "cf1d41663f5f437da22ac95245b0be58",
+  "id": "sf-camera-lubitel2-photogrammetry-cf1d41",
+  "bytes": 1284440,
+  "tris": 170869,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9522416
+ },
+ {
+  "uid": "5fb17aee60014ad69e7fcac43a3491e7",
+  "id": "sf-the-komainu-of-hakone-shrine-5fb17a",
+  "bytes": 4316348,
+  "tris": 242236,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 59583996
+ },
+ {
+  "uid": "8cac7c52a8dc41c19ed61a242410bcbe",
+  "id": "sf-wooden-camel-by-revopoint-pop-8cac7c",
+  "bytes": 852500,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 24998392
+ },
+ {
+  "uid": "678a71851b8d436aaf334a76fe782d06",
+  "id": "sf-wwi-memorial-678a71",
+  "bytes": 1592504,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 20644360
+ },
+ {
+  "uid": "1338e8711eb449d5aef24ef065271c3f",
+  "id": "sf-basketball-simulation-character-1338e8",
+  "bytes": 567144,
+  "tris": 137574,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 3383684
+ },
+ {
+  "uid": "c990713e770641e6800032b23a7555f3",
+  "id": "sf-rolly-polly-chef-c99071",
+  "bytes": 447792,
+  "tris": 53202,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4356668
+ },
+ {
+  "uid": "0b1a9021c65b442daffe45be40b31cc8",
+  "id": "sf-achaemenid-saints-0b1a90",
+  "bytes": 818656,
+  "tris": 21564,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 4166884
+ },
+ {
+  "uid": "4edd23102fe742cca3487e5fc5c8d3d7",
+  "id": "sf-hip-bone-3d-scan-4edd23",
+  "bytes": 906696,
+  "tris": 199991,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 25976184
+ },
+ {
+  "uid": "433b80b7a2714b4ca18c49bc8276d3f6",
+  "id": "sf-rougarou-in-dreamland-433b80",
+  "bytes": 1303328,
+  "tris": 199999,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 9054096
+ },
+ {
+  "uid": "a0530d3030b74ad5ad5a8c1a88839a72",
+  "id": "sf-founders-all-day-ipa-session-ale-a0530d",
+  "bytes": 1357980,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 23360184
+ },
+ {
+  "uid": "acc76431a99446b5b8ce12b578756b05",
+  "id": "sf-piatra-neamt-statue-acc764",
+  "bytes": 2111920,
+  "tris": 199991,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 72165116
+ },
+ {
+  "uid": "0c374432696c4fd6a1036a5456a57b99",
+  "id": "sf-johnny-d-w-belt-0c3744",
+  "bytes": 6220496,
+  "tris": 199783,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 26027744
+ },
+ {
+  "uid": "fd1f33b2f6fa4dec9c36677ca6ff7a8d",
+  "id": "sf-statue-of-a-hockey-player-fd1f33",
+  "bytes": 2550320,
+  "tris": 199976,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 42091420
+ },
+ {
+  "uid": "567a79d92464493ebc38cb775b474bfd",
+  "id": "sf-verboten-nigh-club-new-york-real-virtual-567a79",
+  "bytes": 1862816,
+  "tris": 221114,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 20578864
+ },
+ {
+  "uid": "9817db04c6b04da2b8722992269a7245",
+  "id": "sf-plastic-product-scan-9817db",
+  "bytes": 869868,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 48124136
+ },
+ {
+  "uid": "d9c1644ffd8b4272af84f8045f59a0c5",
+  "id": "sf-spanish-mastiff-d9c164",
+  "bytes": 1587432,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 35988372
+ },
+ {
+  "uid": "21bdcd2bc40643318950e599494c6e52",
+  "id": "sf-red-marble-slab-21bdcd",
+  "bytes": 1806300,
+  "tris": 176246,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 25093084
+ },
+ {
+  "uid": "720a79bf743a42c380ff27a6b0c72c4a",
+  "id": "sf-new-balance-530-black-720a79",
+  "bytes": 814796,
+  "tris": 99990,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15354180
+ },
+ {
+  "uid": "3d4b219cf1024f26891d6d81bcb03720",
+  "id": "sf-owl-bowl-ashtray-3d4b21",
+  "bytes": 1299664,
+  "tris": 174540,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 15641888
+ },
+ {
+  "uid": "eecffa96d1864570af8781c089ed0d8b",
+  "id": "sf-round-home-hammer-eecffa",
+  "bytes": 871400,
+  "tris": 146564,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 7212100
+ },
+ {
+  "uid": "97af0aeefbbe4a84b8e238682896a263",
+  "id": "sf-small-stone-cubes-fence-ii-97af0a",
+  "bytes": 1376272,
+  "tris": 44963,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15229976
+ },
+ {
+  "uid": "699178a2773f4903bed018b198088f06",
+  "id": "sf-round-mossy-rock-699178",
+  "bytes": 2322192,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 32678736
+ },
+ {
+  "uid": "22aa1dec9e7b4637932f61f1a02d68dd",
+  "id": "sf-sf-firehydrant-22aa1d",
+  "bytes": 2181476,
+  "tris": 44694,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 27455852
+ },
+ {
+  "uid": "109cfcc2d1944966a3598f8242c656aa",
+  "id": "sf-dead-porpoise-109cfc",
+  "bytes": 1730556,
+  "tris": 35667,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 76023632
+ },
+ {
+  "uid": "fa7cd474c5114e46ab89bd706883b5f6",
+  "id": "sf-head-of-dystacta-alticeps-bush-tiger-man-fa7cd4",
+  "bytes": 6331548,
+  "tris": 225217,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 39115560
+ },
+ {
+  "uid": "6ae0716154494a11947f6dd969af65a0",
+  "id": "sf-limone-lemon-hi-poly-3d-scan-6ae071",
+  "bytes": 589852,
+  "tris": 81168,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 5847500
+ },
+ {
+  "uid": "ec72ad1f145c4d12a1b3a2023c066d5d",
+  "id": "sf-heteropteryx-dilatata-jungle-nymph-ec72ad",
+  "bytes": 15311960,
+  "tris": 593649,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 77582672
+ },
+ {
+  "uid": "66bb1735bcc34273b5ba7f9a4173cfa2",
+  "id": "sf-door-part-photogrammetry-66bb17",
+  "bytes": 2533964,
+  "tris": 199205,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 93329604
+ },
+ {
+  "uid": "3a1073a461df4b42bca0618d5778fd72",
+  "id": "sf-1988-land-rover-defender-110-raw-scan-3a1073",
+  "bytes": 2021272,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 18828236
+ },
+ {
+  "uid": "70de8857355d4c32abc88e6556090f12",
+  "id": "sf-snowy-aston-martin-v12-db11-raw-scan-70de88",
+  "bytes": 2084696,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 19293284
+ },
+ {
+  "uid": "bcc563761abf441db87749b7a4578953",
+  "id": "sf-wrecked-derby-demolition-car-raw-scan-bcc563",
+  "bytes": 2269440,
+  "tris": 199999,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 14743568
+ },
+ {
+  "uid": "7b763758f2f1496fad68fc01f2cb9260",
+  "id": "sf-boy-with-a-rocket-7b7637",
+  "bytes": 2558304,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 23888692
+ },
+ {
+  "uid": "b87147fea61340d996fd659250f6ce44",
+  "id": "sf-3d-scan-wooden-lounge-chai-duplicated-ve-b87147",
+  "bytes": 1636464,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 22989872
+ },
+ {
+  "uid": "7b5fd439e82040b4b482ed75889916c0",
+  "id": "sf-worn-knife-3d-scan-7b5fd4",
+  "bytes": 87656,
+  "tris": 4468,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 849528
+ },
+ {
+  "uid": "8dcebb6077fb46cc939fdcf2fe585937",
+  "id": "sf-scandy-iphonex-first-3d-scan-8dcebb",
+  "bytes": 1027804,
+  "tris": 199930,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 6832068
+ },
+ {
+  "uid": "a181b343526a48d4a52976a998c30aed",
+  "id": "sf-zombie-prop-head-3d-scan-decimated-a181b3",
+  "bytes": 1242356,
+  "tris": 15174,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 10886964
+ },
+ {
+  "uid": "f5582e1ceb984c2d98c71a24c7d7bdc0",
+  "id": "sf-superman-f5582e",
+  "bytes": 688880,
+  "tris": 20658,
+  "maxTexture": 512,
+  "textures": 2,
+  "rawBytes": 2483880
+ },
+ {
+  "uid": "da0f3082c55e488a88d50e3c1f32ac88",
+  "id": "sf-a-little-bit-e-of-france-da0f30",
+  "bytes": 1094076,
+  "tris": 200028,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17501604
+ },
+ {
+  "uid": "095ea6c2351048e394a74875064245f3",
+  "id": "sf-46-095ea6",
+  "bytes": 449076,
+  "tris": 50000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4451236
+ },
+ {
+  "uid": "85070a596e1a470597ccc06cbfb0780e",
+  "id": "sf-bebristsikhe-fortress-in-mtskheta-georgi-85070a",
+  "bytes": 3151752,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 21768236
+ },
+ {
+  "uid": "3e7d17bb0d9f40ad904bb044f0dc1cf3",
+  "id": "sf-monument-3e7d17",
+  "bytes": 530156,
+  "tris": 12098,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4845988
+ },
+ {
+  "uid": "301d2c6b91c74f869e02462ecb149c34",
+  "id": "sf-tomb-in-st-mary-s-at-finchley-churchyard-301d2c",
+  "bytes": 3966736,
+  "tris": 157406,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 37491176
+ },
+ {
+  "uid": "437fd1f32a3448a5810f4dcc711ee215",
+  "id": "sf-kid-amphora-vase-437fd1",
+  "bytes": 461576,
+  "tris": 31256,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 8262412
+ },
+ {
+  "uid": "b2736228a5b942bf95c87c9381fe1522",
+  "id": "sf-pagan-throne-free-b27362",
+  "bytes": 2317068,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 29688420
+ },
+ {
+  "uid": "ba7786989b414adf91a5763e71e9854c",
+  "id": "sf-small-destroyed-tombstone-04-ba7786",
+  "bytes": 1846568,
+  "tris": 99962,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 20409720
+ },
+ {
+  "uid": "1dbaaf429e30457d9fe05e8e4780752f",
+  "id": "sf-dark-hotel-room-dot3d-dpi-10-kit-19-pts-1dbaaf",
+  "bytes": 41916408,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 188947540
+ },
+ {
+  "uid": "57b47f6a59a44b56acf581c303adb122",
+  "id": "sf-private-57b47f",
+  "bytes": 1764340,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 35398180
+ },
+ {
+  "uid": "06c26f51d868425f875a9ae35b34885a",
+  "id": "sf-diploma-tube-06c26f",
+  "bytes": 595184,
+  "tris": 90200,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11614500
+ },
+ {
+  "uid": "19392c0892664f6399726ee5eac3d4d0",
+  "id": "sf-diy-dog-house-19392c",
+  "bytes": 2004416,
+  "tris": 199792,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21200300
+ },
+ {
+  "uid": "e0a1812e5c3746349b7ff6c6128a046f",
+  "id": "sf-motorcycle-sprocket-artec-micro-3d-scan-e0a181",
+  "bytes": 816624,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 102739752
+ },
+ {
+  "uid": "43d76e764167447284822fd5b0bc3cbd",
+  "id": "sf-altered-ignimbrite-spain-43d76e",
+  "bytes": 3442368,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 109369392
+ },
+ {
+  "uid": "a37541ec65064597b19ce7b7602ca23f",
+  "id": "sf-burrells-lane-window-detail-obj-simp-a37541",
+  "bytes": 533332,
+  "tris": 18893,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16469732
+ },
+ {
+  "uid": "ded9e72643b143a283e338520bce4ea8",
+  "id": "sf-native-american-tiki-statues-ded9e7",
+  "bytes": 826976,
+  "tris": 70000,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 30762448
+ },
+ {
+  "uid": "ff9447e2a52046009388da13df12fd43",
+  "id": "sf-color-shoe-scan-ff9447",
+  "bytes": 1841872,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 32502788
+ },
+ {
+  "uid": "375a0c902b484789b8bd847f5109a39e",
+  "id": "sf-fireplace-375a0c",
+  "bytes": 2529904,
+  "tris": 4232,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 57540700
+ },
+ {
+  "uid": "7cd0fa8086534d1699d52a9272ff0466",
+  "id": "sf-random-guernica-7cd0fa",
+  "bytes": 1510172,
+  "tris": 1174,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 10172232
+ },
+ {
+  "uid": "7fc9800c14e44a39a4435123fb4382e4",
+  "id": "sf-cake-7fc980",
+  "bytes": 1823788,
+  "tris": 200421,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 44242464
+ },
+ {
+  "uid": "2c170228947040cd8209ae916b12139f",
+  "id": "sf-styracosaurus-2c1702",
+  "bytes": 1541456,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 30068028
+ },
+ {
+  "uid": "7d851e379d714f418dab9bd814f42e24",
+  "id": "sf-360-degree-dino-mesh-2-7d851e",
+  "bytes": 964448,
+  "tris": 199996,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 53819924
+ },
+ {
+  "uid": "d6122f25d7fe4ef28e2800faa1a5bdc4",
+  "id": "sf-staithes-north-yorkshire-d6122f",
+  "bytes": 3448976,
+  "tris": 199929,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 88104148
+ },
+ {
+  "uid": "33e30ef5d4b54f3dba0a3c449114c509",
+  "id": "sf-window-of-a-church-in-old-russian-style-33e30e",
+  "bytes": 969800,
+  "tris": 99991,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 10667664
+ },
+ {
+  "uid": "5a07190305ff4a70bf5f5822af8506dc",
+  "id": "sf-jersey-road-barrier-no-2-free-photoscan-5a0719",
+  "bytes": 1892644,
+  "tris": 68357,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 29461828
+ },
+ {
+  "uid": "510721ada91e448189c44894a2c4c43f",
+  "id": "sf-marble-pillar-510721",
+  "bytes": 1849940,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 29425840
+ },
+ {
+  "uid": "b2d5c797353748108925b7e213bf8c79",
+  "id": "sf-pixiu-ornaments-b2d5c7",
+  "bytes": 830208,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 17692852
+ },
+ {
+  "uid": "7d39ed5bb9544b22b79079a2219e318a",
+  "id": "sf-tchaikovsky-bench-7d39ed",
+  "bytes": 1775468,
+  "tris": 199987,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 23416312
+ },
+ {
+  "uid": "33eea989a97c449383c2d53a7ca884af",
+  "id": "sf-fireplace-33eea9",
+  "bytes": 4001604,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 32347520
+ },
+ {
+  "uid": "6b6ccae7a3bf45baae16e34997b741b9",
+  "id": "sf-mosaic-iii-ladova-street-6b6cca",
+  "bytes": 1842940,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14033676
+ },
+ {
+  "uid": "5069de3fd9194021bf82468853832bc4",
+  "id": "sf-ceramic-teapot-baby-elephant-5069de",
+  "bytes": 1276268,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14846632
+ },
+ {
+  "uid": "039c30f9160e4ffdbc5e9157ca6ce852",
+  "id": "sf-devil-s-chess-table-statue-039c30",
+  "bytes": 1234324,
+  "tris": 3497,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 37670752
+ },
+ {
+  "uid": "daf80cf8f3d7488d85f4eaea08b3559e",
+  "id": "sf-enigma-ancient-egyptian-hieroglyphs-daf80c",
+  "bytes": 1497692,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 27337208
+ },
+ {
+  "uid": "248f4cb5b324497888b97e4fe7f84964",
+  "id": "sf-baguette-low-poly-old-ver-248f4c",
+  "bytes": 107100,
+  "tris": 1748,
+  "maxTexture": 1024,
+  "textures": 2,
+  "rawBytes": 533124
+ },
+ {
+  "uid": "6419fd39d18941c9a8ca075226cde1b7",
+  "id": "sf-hip-hop-dance-by-sarwar-3d-scan-6419fd",
+  "bytes": 812544,
+  "tris": 63547,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 10424208
+ },
+ {
+  "uid": "03f12d8afad84629a8076bb4de135e0b",
+  "id": "sf-marine-03f12d",
+  "bytes": 932828,
+  "tris": 173478,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 7541396
+ },
+ {
+  "uid": "66c8cef480cc4b36b437a90c75972599",
+  "id": "sf-ball-66c8ce",
+  "bytes": 1418964,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 34521560
+ },
+ {
+  "uid": "0c7799a9a24c4fefaa8ecab5f72264af",
+  "id": "sf-mini-track-loader-0c7799",
+  "bytes": 1981152,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13387256
+ },
+ {
+  "uid": "71ce93af9cc242569318033f8be1528a",
+  "id": "sf-stele-of-rebuilding-pusheng-temple-71ce93",
+  "bytes": 2010580,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 41327172
+ },
+ {
+  "uid": "7410a74f082e495e9b590d48d92df406",
+  "id": "sf-164-200x40mm-7410a7",
+  "bytes": 895040,
+  "tris": 200312,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 8136268
+ },
+ {
+  "uid": "d761b08089fd4480a0980a844c107b26",
+  "id": "sf-hulk-photoscan-v02-d761b0",
+  "bytes": 566340,
+  "tris": 59836,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 5411836
+ },
+ {
+  "uid": "250b751c937f4bfd8bd6aac2c50c0e57",
+  "id": "sf-warrior-statue-250b75",
+  "bytes": 1211532,
+  "tris": 88017,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 6979492
+ },
+ {
+  "uid": "cae08c1f0b0e4cb0b35b0e315dae76fd",
+  "id": "sf-ikea-stool-taburete-3d-scan-cae08c",
+  "bytes": 2747636,
+  "tris": 99999,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 30405744
+ },
+ {
+  "uid": "b6e8912846bf4e229cf9a7966cd31417",
+  "id": "sf-concrete-pole-3d-scan-b6e891",
+  "bytes": 2096284,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 23462136
+ },
+ {
+  "uid": "12fe927a0eb64b5095fcce05dd13b3f3",
+  "id": "sf-1000-12fe92",
+  "bytes": 123084,
+  "tris": 6000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 5335808
+ },
+ {
+  "uid": "9c448b119b384f29992400fe377b7306",
+  "id": "sf-brass-ethiopian-cross-iii-artec-micro-3d-9c448b",
+  "bytes": 872328,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 11969812
+ },
+ {
+  "uid": "2d1ea5d8296f4854b390a35fc42ec81d",
+  "id": "sf-carnegy-temple-lour-angus-drone-3d-scan-2d1ea5",
+  "bytes": 1405700,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 12272012
+ },
+ {
+  "uid": "e6d470c64dc94270b8806fc61d97398d",
+  "id": "sf-abstract-relief-e6d470",
+  "bytes": 1247756,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13663808
+ },
+ {
+  "uid": "769c5db88f454063a5f8c0be2a64c178",
+  "id": "sf-mirador-glacier-paradise-zermatt-switzer-769c5d",
+  "bytes": 2988616,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 20788948
+ },
+ {
+  "uid": "1c8e9acc5926478c85e6ca48d5e3ad1c",
+  "id": "sf-house-facade-and-staircase-1c8e9a",
+  "bytes": 5298840,
+  "tris": 386769,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 91179196
+ },
+ {
+  "uid": "257b25ab61c64ef0bccb375eb3087786",
+  "id": "sf-george-face-scan-257b25",
+  "bytes": 602288,
+  "tris": 126464,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 3503268
+ },
+ {
+  "uid": "249c4afe78584594b4ac97d48fe833f9",
+  "id": "sf-pantone-color-chips-249c4a",
+  "bytes": 1144032,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 15712072
+ },
+ {
+  "uid": "14a655ba499b4590bfe0df81af86a1c4",
+  "id": "sf-103-820x820-57mm-14a655",
+  "bytes": 981668,
+  "tris": 206363,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 8830940
+ },
+ {
+  "uid": "423e16e51c7b4f069b8444703f2bf3e7",
+  "id": "sf-alternator-housing-423e16",
+  "bytes": 919652,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 21740212
+ },
+ {
+  "uid": "b91e91ebc3084c49b4119c4b0518a09a",
+  "id": "sf-77-30-15mm-b91e91",
+  "bytes": 659840,
+  "tris": 115341,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 4525176
+ },
+ {
+  "uid": "ad3f2d78ec4848c9ac85bd9808ab304b",
+  "id": "sf-decorative-owl-3d-scan-ad3f2d",
+  "bytes": 779324,
+  "tris": 17358,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 9499496
+ },
+ {
+  "uid": "4975e9d305594387b0a730de7379c9b0",
+  "id": "sf-grave-marker-4975e9",
+  "bytes": 815208,
+  "tris": 33323,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11643872
+ },
+ {
+  "uid": "7047f9f56d5f4037aac19cc64fdc1b25",
+  "id": "sf-martello-tower-in-dublin-7047f9",
+  "bytes": 5565820,
+  "tris": 124917,
+  "maxTexture": 2048,
+  "textures": 8,
+  "rawBytes": 39954560
+ },
+ {
+  "uid": "615ffc35e8df406b9a4738ed7a14ead2",
+  "id": "sf-destroyed-car-05-raw-scan-615ffc",
+  "bytes": 6648752,
+  "tris": 480978,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 101127524
+ },
+ {
+  "uid": "c819cc0383134584af8cdf17c0ad85b8",
+  "id": "sf-dolmen-in-pshenakho-valley-c819cc",
+  "bytes": 2397052,
+  "tris": 174813,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 20896156
+ },
+ {
+  "uid": "785d6e7a6e00472f9766e7bccb1e5be9",
+  "id": "sf-candlestick-angel-3d-scan-785d6e",
+  "bytes": 783196,
+  "tris": 61518,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 19200508
+ },
+ {
+  "uid": "f8e5276cce244ef9b24afd79a3c0375b",
+  "id": "sf-probostov-war-memorial-f8e527",
+  "bytes": 5330244,
+  "tris": 263322,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 81343512
+ },
+ {
+  "uid": "78a98c0458cf4b8e9361f0714710ae80",
+  "id": "sf-a-piece-of-wood-78a98c",
+  "bytes": 3382552,
+  "tris": 49999,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 30657508
+ },
+ {
+  "uid": "b7db620812e244afb96c0fd9b8404122",
+  "id": "sf-resort-hallway-dot3d-dpi-10-kit-19-pts-b7db62",
+  "bytes": 41633388,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 186735600
+ },
+ {
+  "uid": "d6c32d08ad744344bb75309965f2586c",
+  "id": "sf-pine-cone-phone-scan-d6c32d",
+  "bytes": 1907572,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 36512624
+ },
+ {
+  "uid": "0feb1a8f902c4a5781a3ed1c86d40a94",
+  "id": "sf-jersey-road-barrier-no-1-free-photoscan-0feb1a",
+  "bytes": 2899564,
+  "tris": 199948,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 78406804
+ },
+ {
+  "uid": "1b0334b4ae994f40b1516fe9504829ff",
+  "id": "sf-goose-figure-1b0334",
+  "bytes": 204884,
+  "tris": 3341,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 3745356
+ },
+ {
+  "uid": "982044b84b4044938af52bfb3b298160",
+  "id": "sf-minecraft-skeleton-rib-982044",
+  "bytes": 19184,
+  "tris": 984,
+  "maxTexture": 16,
+  "textures": 3,
+  "rawBytes": 79664
+ },
+ {
+  "uid": "92395cfb11644ce6bda3f16be46e514f",
+  "id": "sf-st-francis-gate-7-gates-92395c",
+  "bytes": 1724976,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 19061676
+ },
+ {
+  "uid": "14724a27bb0841478ec66cc5f57e20ea",
+  "id": "sf-ethiopian-cross-wood-carving-14724a",
+  "bytes": 1398764,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 62389204
+ },
+ {
+  "uid": "8cdc1a144fcf425ca8af64c892e6b562",
+  "id": "sf-ganesh-8cdc1a",
+  "bytes": 22800920,
+  "tris": 782310,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 93741100
+ },
+ {
+  "uid": "15dab97051f64f06a0c8b5e7ff174077",
+  "id": "sf-the-national-archives-richmond-uk-15dab9",
+  "bytes": 1921644,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17504948
+ },
+ {
+  "uid": "90da762241ab4c17a5d358cfc263e3b8",
+  "id": "sf-kingsgate-castle-kent-uk-drone-3d-scan-90da76",
+  "bytes": 1965176,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17093352
+ },
+ {
+  "uid": "9754695b432d4f0d91377bb64e587e32",
+  "id": "sf-sloni-stolicka-elephant-stool-tooth-975469",
+  "bytes": 1695868,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14797636
+ },
+ {
+  "uid": "5f6227f8e1b7404aa248e7932c73d51e",
+  "id": "sf-ceramic-teapot-elephant-5f6227",
+  "bytes": 1129452,
+  "tris": 182530,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10448340
+ },
+ {
+  "uid": "5a278d636ed542d3b293b0a1336832ca",
+  "id": "sf-abandoned-toys-car-5a278d",
+  "bytes": 1642576,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18943848
+ },
+ {
+  "uid": "ec29364b59b244b59c7c048ed6f7f0ed",
+  "id": "sf-free-tree-bark-scan-retopologized-ec2936",
+  "bytes": 3674480,
+  "tris": 34916,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 59817888
+ },
+ {
+  "uid": "91fd01630a8e494694d4eebcadcf1d49",
+  "id": "sf-platanus-fall-semester-2018-topology-91fd01",
+  "bytes": 40747520,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 112027904
+ },
+ {
+  "uid": "34fbc834a75042a9963f711bdf0ffac1",
+  "id": "sf-gargoyle-fountain-realistic-34fbc8",
+  "bytes": 1648160,
+  "tris": 187492,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 22830456
+ },
+ {
+  "uid": "e7479b07a0594454b253dad2df3dd2f6",
+  "id": "sf-3d-scan-old-brick-step-e7479b",
+  "bytes": 1597796,
+  "tris": 36189,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 19869300
+ },
+ {
+  "uid": "cb8bc2e7b1a1460aa9e312df7ad5f037",
+  "id": "sf-glass-bottle-3d-scan-cb8bc2",
+  "bytes": 514568,
+  "tris": 25920,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 5090752
+ },
+ {
+  "uid": "12c22681f71a4c9e93000ccf98aa81bf",
+  "id": "sf-captivating-blooms-flower-vase-on-a-tree-12c226",
+  "bytes": 3351732,
+  "tris": 200000,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 15441876
+ },
+ {
+  "uid": "003454ea88a64f59af7dcadad890d328",
+  "id": "sf-scan-the-candy-with-scandy-003454",
+  "bytes": 4357188,
+  "tris": 434084,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 59882000
+ },
+ {
+  "uid": "2b926dc088c04ac798c13d7e8aad1dad",
+  "id": "sf-statue-ludwig-hoffmann-quartier-2b926d",
+  "bytes": 1820272,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 24379940
+ },
+ {
+  "uid": "aa688d09c45b4c7990c6590de99e6f47",
+  "id": "sf-89-48hx27mm-aa688d",
+  "bytes": 246160,
+  "tris": 58038,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1652224
+ },
+ {
+  "uid": "afcfff3f12d04c6cb5bec73247e72082",
+  "id": "sf-111-103hx100mm-afcfff",
+  "bytes": 298460,
+  "tris": 69112,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 2005088
+ },
+ {
+  "uid": "50d30b7015b24a3f99e02560fb8e65eb",
+  "id": "sf-person-hall-50d30b",
+  "bytes": 6194572,
+  "tris": 440477,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 87475044
+ },
+ {
+  "uid": "2b8b456e2f994213a38be3491675725b",
+  "id": "sf-calabaza-halloween-2b8b45",
+  "bytes": 1492620,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 15349488
+ },
+ {
+  "uid": "69006029086441049b70b02f3dad04dd",
+  "id": "sf-blue-house-switzerland-690060",
+  "bytes": 1629404,
+  "tris": 199988,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 53644272
+ },
+ {
+  "uid": "629f45008eea41abbc8fe701ea84b394",
+  "id": "sf-s-d-cargill-mausoleum-629f45",
+  "bytes": 1963500,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 50951716
+ },
+ {
+  "uid": "0ca5790e8b1445ee91b40c44245d7c38",
+  "id": "sf-pine-tree-0ca579",
+  "bytes": 1979720,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9175596
+ },
+ {
+  "uid": "3eac4151cdc14ea08cf1e141bab7d228",
+  "id": "sf-tomb-of-elizabeth-norris-3eac41",
+  "bytes": 3298476,
+  "tris": 199989,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 31770052
+ },
+ {
+  "uid": "cba6a38b59be46bbba67b1143df7ad79",
+  "id": "sf-hand-holding-a-pencil-cba6a3",
+  "bytes": 969640,
+  "tris": 199985,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 41025788
+ },
+ {
+  "uid": "cea050d345c54341b04e0690e102087f",
+  "id": "sf-iron-door-with-graffiti-cea050",
+  "bytes": 1074544,
+  "tris": 65027,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 11737940
+ },
+ {
+  "uid": "b06685621d66438ca3c9fa113c096326",
+  "id": "sf-gingy-the-gingebread-man-b06685",
+  "bytes": 1118600,
+  "tris": 155024,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9559748
+ },
+ {
+  "uid": "7b14169f581c412aa9cddceb2985aa87",
+  "id": "sf-medusa-statue-2-7b1416",
+  "bytes": 3053004,
+  "tris": 41015,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 22867588
+ },
+ {
+  "uid": "483c37922f804d9c8beb510c31c83f57",
+  "id": "sf-electrical-room-dot3d-realsense-d455-17-483c37",
+  "bytes": 43094908,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 192567068
+ },
+ {
+  "uid": "18b84143265f4df39bfaebacb695169c",
+  "id": "sf-crashed-vw-dot3d-realsense-d415-15-point-18b841",
+  "bytes": 9814208,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 176896984
+ },
+ {
+  "uid": "a3b1f196d51f4111acd84fd157e6726a",
+  "id": "sf-beach-toys-a3b1f1",
+  "bytes": 1234340,
+  "tris": 85538,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 23140148
+ },
+ {
+  "uid": "51ba62a6d456485c81a436088acf6630",
+  "id": "sf-old-dry-broken-stump-51ba62",
+  "bytes": 4121608,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 40417040
+ },
+ {
+  "uid": "61fc55a9f5134e5288795be60ef56dd9",
+  "id": "sf-petrele-castle-petrela-tirana-drone-3d-s-61fc55",
+  "bytes": 3199296,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 32349916
+ },
+ {
+  "uid": "d4f21d4e0409461592751d58be59ac5a",
+  "id": "sf-andesitic-dike-spain-d4f21d",
+  "bytes": 4837556,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 129112404
+ },
+ {
+  "uid": "a2161d72e25f4237bbb92a99aabc9144",
+  "id": "sf-reklamni-panel-likerky-1930-distillery-a-a2161d",
+  "bytes": 1383648,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10924720
+ },
+ {
+  "uid": "ab1407479bee4259a267030350473b1b",
+  "id": "sf-parvati-cantor-arts-center-at-stanford-ab1407",
+  "bytes": 13915860,
+  "tris": 369785,
+  "maxTexture": 2048,
+  "textures": 9,
+  "rawBytes": 94239120
+ },
+ {
+  "uid": "752d014576cd4d3d81e9a7ae80dd10d4",
+  "id": "sf-hip-bone-3d-scan-752d01",
+  "bytes": 906704,
+  "tris": 199991,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 25976192
+ },
+ {
+  "uid": "295ac67a3bbb4f9f9fa4cc798c8173b1",
+  "id": "sf-3d-scan-lawn-mower-295ac6",
+  "bytes": 2878512,
+  "tris": 199988,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 36578532
+ },
+ {
+  "uid": "9c35e17e69bb4cd3b5fffdad8b92c2b4",
+  "id": "sf-small-fish-9c35e1",
+  "bytes": 1111364,
+  "tris": 172054,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 7454884
+ },
+ {
+  "uid": "25c7f09174404bb899e4a7aea6d20957",
+  "id": "sf-speak-no-evil-25c7f0",
+  "bytes": 1531336,
+  "tris": 198254,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10724212
+ },
+ {
+  "uid": "004746f9a00342298c89eab88c5203c5",
+  "id": "sf-snowy-forest-floor-004746",
+  "bytes": 1414432,
+  "tris": 52961,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 22490072
+ },
+ {
+  "uid": "995140f7ae684beca827af27fee7eb33",
+  "id": "sf-house-interior-995140",
+  "bytes": 4726588,
+  "tris": 199963,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 53887744
+ },
+ {
+  "uid": "bbf5e9b1387649dcace775a6c722ee42",
+  "id": "sf-esculture-david-pineda-chabas-bbf5e9",
+  "bytes": 1676848,
+  "tris": 167996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 12242776
+ },
+ {
+  "uid": "e1c67c3f8caa4f749a102adeca30cf83",
+  "id": "sf-kyle-busch-18-toyota-camry-e1c67c",
+  "bytes": 1050104,
+  "tris": 199987,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 12695588
+ },
+ {
+  "uid": "378609a7a39748aab4b3f391074428e1",
+  "id": "sf-3d-face-scan-of-self-378609",
+  "bytes": 620248,
+  "tris": 76887,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4305172
+ },
+ {
+  "uid": "19a7cdcb40eb4a30b74c599b6ca7777d",
+  "id": "sf-161-42-19mm-19a7cd",
+  "bytes": 110364,
+  "tris": 23372,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 628380
+ },
+ {
+  "uid": "7018da60968c4d0daf4bfdc82f3e3255",
+  "id": "sf-161-71-46mm-7018da",
+  "bytes": 179268,
+  "tris": 43886,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1077756
+ },
+ {
+  "uid": "21942f2d10d543e8a2ed151bcf508855",
+  "id": "sf-cat-tree-21942f",
+  "bytes": 665240,
+  "tris": 146836,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 4718124
+ },
+ {
+  "uid": "153b010670d04f7a99cbf054ecb2ee42",
+  "id": "sf-59-42-9mm-153b01",
+  "bytes": 26728,
+  "tris": 3662,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 179200
+ },
+ {
+  "uid": "aff1f97d316a444dae6d6f2ad5efea11",
+  "id": "sf-116-200-x188mm-aff1f9",
+  "bytes": 226896,
+  "tris": 47124,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1396956
+ },
+ {
+  "uid": "a0b7386cf61149c5aedb5759db2ba1ca",
+  "id": "sf-golden-column-color-scan-a0b738",
+  "bytes": 283792,
+  "tris": 49500,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1802776
+ },
+ {
+  "uid": "1d20d88090cc4fad96be15792367a414",
+  "id": "sf-homegrown-kohlrabi-1d20d8",
+  "bytes": 1103980,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10981768
+ },
+ {
+  "uid": "ffacee9015054ec8a3ca9128fcb23def",
+  "id": "sf-wooden-angel-ffacee",
+  "bytes": 1850672,
+  "tris": 199932,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 39727072
+ },
+ {
+  "uid": "8cc65befc07743d6bdfda269e2bed00b",
+  "id": "sf-forest-stones-campfire-8cc65b",
+  "bytes": 1627524,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18686168
+ },
+ {
+  "uid": "71233291121d439cb3a1563f14813a4e",
+  "id": "sf-historic-sundial-pillar-st-mary-church-l-712332",
+  "bytes": 1552344,
+  "tris": 62304,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 14581176
+ },
+ {
+  "uid": "4685389b1ae144609bf881a9b3c0f3c6",
+  "id": "sf-white-plush-bat-toy-468538",
+  "bytes": 309616,
+  "tris": 25000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4338844
+ },
+ {
+  "uid": "896a579bfbe247e0b00f6c82e9bb79b4",
+  "id": "sf-horni-zalezly-cross-896a57",
+  "bytes": 2087196,
+  "tris": 199971,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 54828368
+ },
+ {
+  "uid": "b7bc96b7fbbb4bcdbb42c87cdec336ad",
+  "id": "sf-stairs-graffiti-free-photoscan-b7bc96",
+  "bytes": 3550688,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 56718400
+ },
+ {
+  "uid": "5ee59eeff3464a13ab7095d7dde720a4",
+  "id": "sf-shape-of-mass-5ee59e",
+  "bytes": 2318188,
+  "tris": 164240,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 25285896
+ },
+ {
+  "uid": "e9d7ac608c67465b8419dcd191317336",
+  "id": "sf-bundt-pan-e9d7ac",
+  "bytes": 939196,
+  "tris": 157710,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 15070228
+ },
+ {
+  "uid": "d05d4468ce89462daad344c359651d04",
+  "id": "sf-bedroom-crime-scene-dot3d-dpi-10-kit-20-d05d44",
+  "bytes": 9485544,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 189933940
+ },
+ {
+  "uid": "7ceb2b93e1874a6aa87984e49cfa21e1",
+  "id": "sf-electrical-room-dot3d-dpi-kit-15-points-7ceb2b",
+  "bytes": 44148876,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 195151936
+ },
+ {
+  "uid": "8910461424834a7786dd4ee66e478000",
+  "id": "sf-cactus-891046",
+  "bytes": 2770468,
+  "tris": 100000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16650276
+ },
+ {
+  "uid": "65cfc2c4432642e3b623bae9c74d0925",
+  "id": "sf-vespasian-bust-british-museum-65cfc2",
+  "bytes": 5125492,
+  "tris": 348541,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 87199728
+ },
+ {
+  "uid": "42566df169974cca8f19226f28536d19",
+  "id": "sf-bashtova-fort-albania-drone-3d-scan-42566d",
+  "bytes": 1661596,
+  "tris": 185770,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 20638548
+ },
+ {
+  "uid": "8984b2302c894358bb25d5d4420085a8",
+  "id": "sf-blue-lagoon-of-buxton-england-3d-scan-8984b2",
+  "bytes": 2024968,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 22838668
+ },
+ {
+  "uid": "889104c3201f482891f96c4254f08021",
+  "id": "sf-greek-church-drone-3d-scan-889104",
+  "bytes": 1628020,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16017372
+ },
+ {
+  "uid": "6ec160cd09e94cc0a7e1fae32737a143",
+  "id": "sf-unconformable-contact-spain-6ec160",
+  "bytes": 3995300,
+  "tris": 75341,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 133311284
+ },
+ {
+  "uid": "cd47095702b741b7b787cd71c8915d8d",
+  "id": "sf-church-of-saint-george-ragusa-sicily-cd4709",
+  "bytes": 2017372,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18809516
+ },
+ {
+  "uid": "2576ab8b5b8740218326176e8f69accd",
+  "id": "sf-3d-scan-wooden-lounge-chair-2576ab",
+  "bytes": 1636428,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 22989880
+ },
+ {
+  "uid": "c8d3d3a6eb864667b22b1ea399b40edd",
+  "id": "sf-fake-wasp-ps-ahhhhhhhhhhhhhh-c8d3d3",
+  "bytes": 1733020,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 31062396
+ },
+ {
+  "uid": "8b64e8dc80ac46a99361bf30149a8997",
+  "id": "sf-the-pink-flamingo-8b64e8",
+  "bytes": 1349548,
+  "tris": 56094,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 8685444
+ },
+ {
+  "uid": "6a176c79fd4143bfbe1c7b232edc4d77",
+  "id": "sf-box-scan-artec-6a176c",
+  "bytes": 1673460,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 34908872
+ },
+ {
+  "uid": "df7b2d7c730c46068bc203c54fe3f44b",
+  "id": "sf-adidas-shoe-df7b2d",
+  "bytes": 361300,
+  "tris": 44752,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 2138532
+ },
+ {
+  "uid": "1445ab184a8f4e8ba0c7ae8753f96978",
+  "id": "sf-mini-pineapple-1445ab",
+  "bytes": 2085896,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 12391996
+ },
+ {
+  "uid": "ebd3b046e3484e0589613adeee57818d",
+  "id": "sf-114-150-x96mm-ebd3b0",
+  "bytes": 258156,
+  "tris": 33040,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1573276
+ },
+ {
+  "uid": "2893c0aa26f54e5d9da5a163b46ed21e",
+  "id": "sf-107-162hx97mm-2893c0",
+  "bytes": 588836,
+  "tris": 133016,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 4075232
+ },
+ {
+  "uid": "a6a9e94554ab46688522d95f23265139",
+  "id": "sf-knife-a6a9e9",
+  "bytes": 1572348,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 24470940
+ },
+ {
+  "uid": "7676464926a3465aba75196cafd38ad6",
+  "id": "sf-scout-boots-3d-scan-767646",
+  "bytes": 2024656,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 25265572
+ },
+ {
+  "uid": "89c67cfad4844819b2ef80177c4955ce",
+  "id": "sf-colleague-89c67c",
+  "bytes": 1702596,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11844040
+ },
+ {
+  "uid": "eb7f5561293e4108ba9ca204c0eb31b4",
+  "id": "sf-terrazzo-surface-texture-eb7f55",
+  "bytes": 2144076,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 31186848
+ },
+ {
+  "uid": "bc5b0a58a2024f7e864bbfe0783a95eb",
+  "id": "sf-the-symbol-of-time-bc5b0a",
+  "bytes": 1814648,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 21564224
+ },
+ {
+  "uid": "e200d10a454f49d993946fa351ec7537",
+  "id": "sf-beer-mug-bierkrug-high-resolution-3d-sca-e200d1",
+  "bytes": 12232528,
+  "tris": 421212,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 73265420
+ },
+ {
+  "uid": "a5254e74947c4c4d97762b5d59e5548e",
+  "id": "sf-log-pile-a5254e",
+  "bytes": 3430720,
+  "tris": 199949,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 66609980
+ },
+ {
+  "uid": "f3cdbac0e3bf432aa562b5df1ba5c7e6",
+  "id": "sf-franz-kafka-book-f3cdba",
+  "bytes": 479484,
+  "tris": 25000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 5647380
+ },
+ {
+  "uid": "39e184bb63f04c16ae70c728010a565d",
+  "id": "sf-why-memorial-to-victims-of-nato-bombing-39e184",
+  "bytes": 2254992,
+  "tris": 50040,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 18811336
+ },
+ {
+  "uid": "2d35dbc9eba04f29bcc92a1a42e82f48",
+  "id": "sf-gin-bottle-with-aesub-transparent-2d35db",
+  "bytes": 962688,
+  "tris": 148876,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10477004
+ },
+ {
+  "uid": "3a2ab8dc7f084ddea8f00c8e69c19d5b",
+  "id": "sf-surprised-tub-3a2ab8",
+  "bytes": 2437068,
+  "tris": 116299,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 43513200
+ },
+ {
+  "uid": "b74ffaf975b94761ad88eb97a8b191e0",
+  "id": "sf-crashed-truck-dot3d-realsense-d415-16-pt-b74ffa",
+  "bytes": 10790704,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 189474084
+ },
+ {
+  "uid": "98772ce2bbde4ef48b13a90b94aee687",
+  "id": "sf-german-fire-hydrant-3d-scan-98772c",
+  "bytes": 1965252,
+  "tris": 199969,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 44512464
+ },
+ {
+  "uid": "6aacd4d2c6d446c29181e85e6ccf1f3b",
+  "id": "sf-lost-tomb-of-saqqara-headless-pyramid-li-6aacd4",
+  "bytes": 2314472,
+  "tris": 199942,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 69336864
+ },
+ {
+  "uid": "269f5672c40047498fe196a82437d437",
+  "id": "sf-zatec-synagogue-main-gate-269f56",
+  "bytes": 1229196,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14301812
+ },
+ {
+  "uid": "f4b70eaad0b341c6853b48cd0d6bc63a",
+  "id": "sf-wave-rock-hyden-australia-f4b70e",
+  "bytes": 2014660,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17374660
+ },
+ {
+  "uid": "59408eb63e7f42e2b9d87a9bfe9b56ca",
+  "id": "sf-silicified-ridge-spain-59408e",
+  "bytes": 4547284,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 130419688
+ },
+ {
+  "uid": "47d6e4842de54f13b9ce99e12e5406a1",
+  "id": "sf-university-of-florida-gator-statue-47d6e4",
+  "bytes": 2167832,
+  "tris": 80889,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 27701968
+ },
+ {
+  "uid": "a8582b9c7f1c418bb89f971e8bb6d414",
+  "id": "sf-bronze-crown-free-stl-a8582b",
+  "bytes": 1799592,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 74563016
+ },
+ {
+  "uid": "3c89c9c6f55143fb981172ff0548017b",
+  "id": "sf-girl-scout-cookie-scan-3c89c9",
+  "bytes": 1722588,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18288052
+ },
+ {
+  "uid": "bad11b50862f471a9dc45ecee981603f",
+  "id": "sf-bell-ceramic-frog-bad11b",
+  "bytes": 518108,
+  "tris": 74662,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4898908
+ },
+ {
+  "uid": "5aea5d40d3ec4f8a9aff220e73d448ec",
+  "id": "sf-impeller-5aea5d",
+  "bytes": 782004,
+  "tris": 179142,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 4975340
+ },
+ {
+  "uid": "e73f485879dc452ca72a47a8628e21b0",
+  "id": "sf-seashell-e73f48",
+  "bytes": 303780,
+  "tris": 41368,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 6858468
+ },
+ {
+  "uid": "0c2f80df1a754126ad6cbaa507cee2f7",
+  "id": "sf-old-tree-branch-0c2f80",
+  "bytes": 4626408,
+  "tris": 171708,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 27335760
+ },
+ {
+  "uid": "56c6277856144d218e914a51d9cb3296",
+  "id": "sf-18-40hx20mm-56c627",
+  "bytes": 3472,
+  "tris": 268,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 14556
+ },
+ {
+  "uid": "7b11ec15b4d04d2aa074599e7ded906e",
+  "id": "sf-argosvr-calibration-model-with-a-touch-o-7b11ec",
+  "bytes": 14644332,
+  "tris": 1116064,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 96138836
+ },
+ {
+  "uid": "7656cd6374bb44b488b5a9615624643a",
+  "id": "sf-m-14-35-x12mm-7656cd",
+  "bytes": 4872,
+  "tris": 672,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 32156
+ },
+ {
+  "uid": "84612140f3134b6fbdbaf3791b7af084",
+  "id": "sf-courtney-846121",
+  "bytes": 509048,
+  "tris": 72974,
+  "maxTexture": 512,
+  "textures": 3,
+  "rawBytes": 2446620
+ },
+ {
+  "uid": "10831ec1464d4316b140b37ad0e79013",
+  "id": "sf-405-10831e",
+  "bytes": 396820,
+  "tris": 50000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4065440
+ },
+ {
+  "uid": "9908fcab7079428aab80d7e4eb0975a3",
+  "id": "sf-backgammon-3dst45-9908fc",
+  "bytes": 1564648,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10922724
+ },
+ {
+  "uid": "1224b10d7cba4776b02d014cc4d274c2",
+  "id": "sf-philadelphia-liberty-bell-digital-herita-1224b1",
+  "bytes": 1722688,
+  "tris": 199986,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 636735276
+ },
+ {
+  "uid": "22404bb6a7624512866d0f0924cf8325",
+  "id": "sf-door-part-2-photogrammetry-22404b",
+  "bytes": 2625796,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 8,
+  "rawBytes": 86547480
+ },
+ {
+  "uid": "df683dc733144338be1f3cdcd1352f5b",
+  "id": "sf-gray-spotty-granite-clad-df683d",
+  "bytes": 3373528,
+  "tris": 199993,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 37857348
+ },
+ {
+  "uid": "54307166b24b4e1a8df6a416ea8dfb4f",
+  "id": "sf-tombstone-north-berwick-old-churchyard-543071",
+  "bytes": 2128224,
+  "tris": 187383,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 17695832
+ },
+ {
+  "uid": "92fb8bfa08184a539b4ff0cf03e7fe09",
+  "id": "sf-thomas-reader-white-monument-finchley-lo-92fb8b",
+  "bytes": 2906284,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 21316312
+ },
+ {
+  "uid": "341badd451bb490c96d8185320d794c0",
+  "id": "sf-dolmen-pshenakho-valley-341bad",
+  "bytes": 2328844,
+  "tris": 186682,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 20713552
+ },
+ {
+  "uid": "659bbec40e78482faeb0b0b7bbecf50f",
+  "id": "sf-walled-church-door-659bbe",
+  "bytes": 1946388,
+  "tris": 199957,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 27458160
+ },
+ {
+  "uid": "e57264a36a1a4af1b6710a10628bb919",
+  "id": "sf-gin-bottle-with-spray-photogrammetry-tex-e57264",
+  "bytes": 196428,
+  "tris": 10000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 4732660
+ },
+ {
+  "uid": "b05bc02ad1db4b43a40d487b50a04481",
+  "id": "sf-photoscan-manhole-cover-2-b05bc0",
+  "bytes": 989612,
+  "tris": 73619,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 23037816
+ },
+ {
+  "uid": "140022921cd345078f11b4a00803ddc4",
+  "id": "sf-residential-basement-dot3d-realsensel515-140022",
+  "bytes": 42274716,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 185728488
+ },
+ {
+  "uid": "93ff8a41c67e4750a02d44d191f898fe",
+  "id": "sf-piping-dot3d-dpi-10-kit-27-pts-93ff8a",
+  "bytes": 42919984,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 175035820
+ },
+ {
+  "uid": "017a9a6708ba4490810a898dde47ac3b",
+  "id": "sf-crashed-vw-dot3d-dpi-10-kit-30-of-points-017a9a",
+  "bytes": 8945024,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 195404784
+ },
+ {
+  "uid": "be1da7e88a01414d8c311e5b56d9bee0",
+  "id": "sf-birch-tree-root-free-3d-scan-be1da7",
+  "bytes": 2915564,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 72928724
+ },
+ {
+  "uid": "2c838c7d8d9b400abd65d05d5f97e953",
+  "id": "sf-3d-printable-pirate-wooden-barrel-2c838c",
+  "bytes": 1028508,
+  "tris": 10000,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 13467500
+ },
+ {
+  "uid": "1274135e7db64f0fb36e3c861e9c64e7",
+  "id": "sf-brass-ethiopian-cross-i-artec-micro-3d-s-127413",
+  "bytes": 847684,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 44309428
+ },
+ {
+  "uid": "172c342a238f4bbe9decf627a9ac9fcd",
+  "id": "sf-t-80ud-tank-raw-3d-scan-172c34",
+  "bytes": 1936520,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 23171648
+ },
+ {
+  "uid": "bb924e9c23894d59941b8a71099815c2",
+  "id": "sf-wooden-seadragon-boat-culturescanningcha-bb924e",
+  "bytes": 5610500,
+  "tris": 199982,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 40794992
+ },
+ {
+  "uid": "dd0c6d2411f44352a3bff7ec45d57902",
+  "id": "sf-karpen-albania-drone-3d-scan-dd0c6d",
+  "bytes": 1899128,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17730476
+ },
+ {
+  "uid": "84199d80f0f64d949fe0045097c6e8b1",
+  "id": "sf-giant-garden-gnome-84199d",
+  "bytes": 1027468,
+  "tris": 120310,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11090968
+ },
+ {
+  "uid": "c12482e250cd4d23903ef47976ac4b8b",
+  "id": "sf-motorcycle-husqvarna-sm-125-raw-scan-c12482",
+  "bytes": 2199072,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 17111696
+ },
+ {
+  "uid": "d7141b32911a4bb4a9701f7aec12abcf",
+  "id": "sf-blossom-kvet-mosaic-d7141b",
+  "bytes": 1415548,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11207972
+ },
+ {
+  "uid": "a112bd20cbac4a4a8fa2f8ca93ee4cf5",
+  "id": "sf-red-conglomerate-spain-a112bd",
+  "bytes": 4819488,
+  "tris": 199995,
+  "maxTexture": 2048,
+  "textures": 6,
+  "rawBytes": 147231752
+ },
+ {
+  "uid": "b27bbf6abb8842138622daee7d649c38",
+  "id": "sf-rocky-coast-3d-scan-b27bbf",
+  "bytes": 5935708,
+  "tris": 150000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 26124636
+ },
+ {
+  "uid": "0b98857657764b02b2ae2eddac987a11",
+  "id": "sf-tombstone-013-1k-0b9885",
+  "bytes": 1464840,
+  "tris": 1197,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 44896896
+ },
+ {
+  "uid": "4586e2d3f45c44d5998e34d1d42d63ce",
+  "id": "sf-beach-trunk-4586e2",
+  "bytes": 3426264,
+  "tris": 183907,
+  "maxTexture": 2048,
+  "textures": 5,
+  "rawBytes": 83153752
+ },
+ {
+  "uid": "77828a4efb5e4b9490201b3d1ce79699",
+  "id": "sf-last-conversation-piece-77828a",
+  "bytes": 1369632,
+  "tris": 112760,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11551536
+ },
+ {
+  "uid": "c18257e599324cc5b8537dae6f46b383",
+  "id": "sf-3d-scan-schamane-2-reduced-c18257",
+  "bytes": 6082272,
+  "tris": 337256,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 36487948
+ },
+ {
+  "uid": "9c420bfe9d0c4dcf8fb7a75b2949bc1d",
+  "id": "sf-australopithecus-africanus-skull-mrs-ple-9c420b",
+  "bytes": 949132,
+  "tris": 20796,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 20402872
+ },
+ {
+  "uid": "956396d6ffcf47a49f38731f019fb1d7",
+  "id": "sf-sailboat-zenfone-ar-956396",
+  "bytes": 2616832,
+  "tris": 199937,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 28564796
+ },
+ {
+  "uid": "b5ac8c25ea3f4d7fa3ff005b51824d18",
+  "id": "sf-chillspace-b5ac8c",
+  "bytes": 3122096,
+  "tris": 199992,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 49373768
+ },
+ {
+  "uid": "1011abd0f7784501b080be1c37b637cc",
+  "id": "sf-taiyaki-naruto-taiyaki-low-poly-1011ab",
+  "bytes": 102768,
+  "tris": 1028,
+  "maxTexture": 1024,
+  "textures": 2,
+  "rawBytes": 702028
+ },
+ {
+  "uid": "63b8d7a9f6344b4ca9b02e9611c9a767",
+  "id": "sf-ceramic-pitcher-63b8d7",
+  "bytes": 298164,
+  "tris": 74394,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1787776
+ },
+ {
+  "uid": "d4df29381b0242d2b583c41c8ddafcc8",
+  "id": "sf-jugful-d4df29",
+  "bytes": 1145804,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 37617464
+ },
+ {
+  "uid": "5569d97b12034c5c8fcec28d0d36c730",
+  "id": "sf-weet-bix-box-3d-scan-5569d9",
+  "bytes": 411076,
+  "tris": 17880,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 2346196
+ },
+ {
+  "uid": "aec1574c5d734fbf9929530894ed25f3",
+  "id": "sf-classic-chinese-scribe-or-philosopher-aec157",
+  "bytes": 388208,
+  "tris": 48870,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 2359804
+ },
+ {
+  "uid": "46eeb1d3c3ea4d3e943fcc1e31adc423",
+  "id": "sf-105-217hx110mm-46eeb1",
+  "bytes": 184652,
+  "tris": 42169,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1213216
+ },
+ {
+  "uid": "34f94fe02462412faa047c4c04cb39ed",
+  "id": "sf-parking-blockers-3d-scan-34f94f",
+  "bytes": 2133244,
+  "tris": 199923,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 45383828
+ },
+ {
+  "uid": "37fd7871d2e64ff8b1e5618bd78b23d1",
+  "id": "sf-3d-scan-of-a-statue-37fd78",
+  "bytes": 3870344,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 28660580
+ },
+ {
+  "uid": "6a62636ff08c42eaa94476b031010ca2",
+  "id": "sf-puriri-grub-pepetuna-6a6263",
+  "bytes": 1225228,
+  "tris": 157642,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13358100
+ },
+ {
+  "uid": "dababa0982284ab5bf67a1d971aba114",
+  "id": "sf-neolithic-stone-axe-3d-scan-dababa",
+  "bytes": 2144848,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 32668200
+ },
+ {
+  "uid": "55cff84f74f549209cb0c6659405c29d",
+  "id": "sf-stadium-utm-55cff8",
+  "bytes": 4646016,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 27803828
+ },
+ {
+  "uid": "5c566233020a41dab2b723a8ffb3bbd4",
+  "id": "sf-ancient-chinese-zoomorphic-ritual-vessel-5c5662",
+  "bytes": 1397172,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 18112292
+ },
+ {
+  "uid": "13b4534dc2cc48bb84eec1480d4e93cf",
+  "id": "sf-striding-eagle-marble-linoleum-game-read-13b453",
+  "bytes": 1123396,
+  "tris": 30078,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 11053388
+ },
+ {
+  "uid": "bdccabb21575431baad11a380514edd1",
+  "id": "sf-mossy-statue-transi-de-rene-de-chalon-ga-bdccab",
+  "bytes": 2383928,
+  "tris": 30046,
+  "maxTexture": 2048,
+  "textures": 3,
+  "rawBytes": 17610744
+ },
+ {
+  "uid": "ba442c9ad2fd4551b6af495b7e5e2ac3",
+  "id": "sf-vintage-table-texture-ba442c",
+  "bytes": 1188832,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 16371228
+ },
+ {
+  "uid": "6af70e2ca71b4e3e96a8a266aaef3a00",
+  "id": "sf-golden-porto-marble-slab-6af70e",
+  "bytes": 2817440,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 29946736
+ },
+ {
+  "uid": "3b02538fd594443b8e996a39fd23e39a",
+  "id": "sf-effigy-on-the-tomb-of-elizabeth-norris-3b0253",
+  "bytes": 1499764,
+  "tris": 71394,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 13378932
+ },
+ {
+  "uid": "f5b8a150447641d78e8c69be3b946a30",
+  "id": "sf-broken-rust-car-f5b8a1",
+  "bytes": 432488,
+  "tris": 15653,
+  "maxTexture": 1024,
+  "textures": 1,
+  "rawBytes": 1943524
+ },
+ {
+  "uid": "5e8aaa52afcf40e2b08a87baae3fcdce",
+  "id": "sf-kandelaar-praalgraf-hendrik-viii-3-van-4-5e8aaa",
+  "bytes": 2004360,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 81782584
+ },
+ {
+  "uid": "ee02890d113848dfac34284e53ced3df",
+  "id": "sf-aragonite-crystal-ee0289",
+  "bytes": 1951260,
+  "tris": 199988,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 423399184
+ },
+ {
+  "uid": "c9b3fb151f90424498ad8c593ca6d394",
+  "id": "sf-trilobite-c9b3fb",
+  "bytes": 1376876,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 28661264
+ },
+ {
+  "uid": "52858c5a60354808aece7e60f19d8a0c",
+  "id": "sf-plants-mountain-aloe-with-stl-file-52858c",
+  "bytes": 2419728,
+  "tris": 199994,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 28752528
+ },
+ {
+  "uid": "7242af190cc4448e8b8618b5b6328a0f",
+  "id": "sf-stone-abstract-statue-7242af",
+  "bytes": 1761756,
+  "tris": 199997,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 24826664
+ },
+ {
+  "uid": "7c71be1f342e499ab45196ed92289c6a",
+  "id": "sf-satyr-7c71be",
+  "bytes": 1339800,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 26976548
+ },
+ {
+  "uid": "3aea545996764073aec2bf4c1b538b8a",
+  "id": "sf-tomb-of-marya-luzanova-krasnodar-1859-3aea54",
+  "bytes": 2101000,
+  "tris": 95009,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 18490608
+ },
+ {
+  "uid": "b0c4dbf406d747b182f65ceb8c18ea9a",
+  "id": "sf-brown-hairy-spider-photogrammetry-scan-b0c4db",
+  "bytes": 1645712,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 35321860
+ },
+ {
+  "uid": "507793f757ba46da8e0cbcd67df8ed26",
+  "id": "sf-xbox-elite-series-2-controller-3d-scan-507793",
+  "bytes": 1380804,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 29228668
+ },
+ {
+  "uid": "e7c6d4ca99d04ef0a27ab416579286a8",
+  "id": "sf-closet-crime-scene-dot3d-dpi-10-kit-27-p-e7c6d4",
+  "bytes": 43360056,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 189628028
+ },
+ {
+  "uid": "7f2e889be0c948009e8d3377bfb481d4",
+  "id": "sf-residential-bathroom-dot3d-ios-lidar-5-p-7f2e88",
+  "bytes": 14050360,
+  "tris": 0,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 98502908
+ },
+ {
+  "uid": "0cf6eefe0ae346a5aafd0633d96ad549",
+  "id": "sf-lee-cooper-shoe-revopoint-pop-3d-scan-0cf6ee",
+  "bytes": 983408,
+  "tris": 199999,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 16739500
+ },
+ {
+  "uid": "1bb1fc3c4fc84c39a51a80c6540b2cd3",
+  "id": "sf-ktm-motorcycle-foot-peg-artec-spider-3d-1bb1fc",
+  "bytes": 850824,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 13724608
+ },
+ {
+  "uid": "25cadb5866f14ee8a88a8d26aad8336c",
+  "id": "sf-tree-stumps-dot3d-scan-25cadb",
+  "bytes": 1283304,
+  "tris": 99954,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9768820
+ },
+ {
+  "uid": "0e2c4bab8f9b438aa7509104a9749044",
+  "id": "sf-aljezur-castle-algarve-portugal-3d-scan-0e2c4b",
+  "bytes": 1754028,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 38390860
+ },
+ {
+  "uid": "5e4c935864944c9bb88403bdb9b29def",
+  "id": "sf-frozen-michigan-lake-3d-scan-5e4c93",
+  "bytes": 2346560,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 22979988
+ },
+ {
+  "uid": "35061035ca5c473b928a6911aad169c3",
+  "id": "sf-jurassic-world-350610",
+  "bytes": 1160948,
+  "tris": 148632,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 9182252
+ },
+ {
+  "uid": "13e4c56dc987471292ec39a3b1195540",
+  "id": "sf-shell-curl-13e4c5",
+  "bytes": 1203148,
+  "tris": 171952,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 7013872
+ },
+ {
+  "uid": "9d49bea56f3049dbb952b2eede39e91d",
+  "id": "sf-columbia-river-gill-net-boat-9d49be",
+  "bytes": 1640516,
+  "tris": 184413,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 14146436
+ },
+ {
+  "uid": "032b73b88d83414dab3564eba16aeb57",
+  "id": "sf-timmy-doll-agisoft-photoscan-032b73",
+  "bytes": 1630668,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 17963128
+ },
+ {
+  "uid": "b0425978ee754569846581f7dab40f09",
+  "id": "sf-chevron-folds-germany-b04259",
+  "bytes": 2206000,
+  "tris": 199986,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 49248404
+ },
+ {
+  "uid": "bd6f6db682354f568a98791b55b8a9c8",
+  "id": "sf-soviet-viking-figurine-1-bd6f6d",
+  "bytes": 910244,
+  "tris": 199998,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 8493956
+ },
+ {
+  "uid": "b31fdd3f9e39438fbe1b32d019983a65",
+  "id": "sf-playground-shop-3d-scan-b31fdd",
+  "bytes": 4213896,
+  "tris": 326394,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 45110988
+ },
+ {
+  "uid": "6e7601c510c545e496e8d4fb38c462d4",
+  "id": "sf-rock-stone-scanned-6e7601",
+  "bytes": 1157848,
+  "tris": 13738,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 34436408
+ },
+ {
+  "uid": "680e090566ae4ae9841e6e3ae5a5cebf",
+  "id": "sf-hydrant-realistic-680e09",
+  "bytes": 1618880,
+  "tris": 199998,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 31195216
+ },
+ {
+  "uid": "1e6d5e6f41024d739d4c7dcf6bd6d830",
+  "id": "sf-cmg-1a-calamity-1e6d5e",
+  "bytes": 925756,
+  "tris": 59084,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 13532504
+ },
+ {
+  "uid": "c0e000132e6f464896df41608b028936",
+  "id": "sf-general-milan-rastislav-stefanik-c0e000",
+  "bytes": 927160,
+  "tris": 10029,
+  "maxTexture": 2048,
+  "textures": 4,
+  "rawBytes": 31862376
+ },
+ {
+  "uid": "dc7b3e673ebf4df8aa00fb850fdef1e4",
+  "id": "sf-osterei-easter-egg-dc7b3e",
+  "bytes": 1227168,
+  "tris": 199999,
+  "maxTexture": 512,
+  "textures": 1,
+  "rawBytes": 30587952
+ },
+ {
+  "uid": "8534dddc7fed44448bf744cab8247054",
+  "id": "sf-3d-scanner-artec-spider-8534dd",
+  "bytes": 886372,
+  "tris": 200000,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 5675524
+ },
+ {
+  "uid": "bfd1841b23174ab09e82086bccecdd36",
+  "id": "sf-tree-trunk-and-surrounding-bushes-bfd184",
+  "bytes": 16035192,
+  "tris": 1313388,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 159493708
+ },
+ {
+  "uid": "1ee364502e8f4fbd9a9abf3b63cf7fbe",
+  "id": "sf-88-53hx31mm-1ee364",
+  "bytes": 160500,
+  "tris": 37415,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 1076104
+ },
+ {
+  "uid": "1ae78f4af48d4b51b6736654a0a5fcac",
+  "id": "sf-119-130-x89mm-1ae78f",
+  "bytes": 556700,
+  "tris": 130703,
+  "maxTexture": 0,
+  "textures": 0,
+  "rawBytes": 4060140
+ },
+ {
+  "uid": "1723f5236f43478ca26dd8e0bc06cd6b",
+  "id": "sf-stick-1723f5",
+  "bytes": 1413404,
+  "tris": 180000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 11293356
+ },
+ {
+  "uid": "b827682b9c704ebbbba3dff0baed7837",
+  "id": "sf-weddingbouquet-mobile-b82768",
+  "bytes": 1084756,
+  "tris": 125647,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 9659284
+ },
+ {
+  "uid": "8c83226160da476099f6155fb712cb8d",
+  "id": "sf-16-8c8322",
+  "bytes": 459976,
+  "tris": 50000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 3077012
+ },
+ {
+  "uid": "2417325d5a6a4fe3bebb9658759c39dd",
+  "id": "sf-terracotta-romantic-couple-241732",
+  "bytes": 1330928,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10704252
+ },
+ {
+  "uid": "c00c53db16314ff6bcc7af620db17b90",
+  "id": "sf-cannel-coal-c00c53",
+  "bytes": 1427112,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 149265656
+ },
+ {
+  "uid": "565f7e73cc2b42bbadc6fd9226e232c5",
+  "id": "sf-garlic-3d-scan-565f7e",
+  "bytes": 270228,
+  "tris": 25000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 1767112
+ },
+ {
+  "uid": "d7068ad8f3cb4ee5be504bf9e7dc2c54",
+  "id": "sf-the-university-of-edinburgh-stone-emblem-d7068a",
+  "bytes": 1712080,
+  "tris": 199999,
+  "maxTexture": 2048,
+  "textures": 2,
+  "rawBytes": 16430504
+ },
+ {
+  "uid": "9923e226dc69439c90f0ba4e879aa8b9",
+  "id": "sf-model-of-medieval-wroclaw-white-stork-sy-9923e2",
+  "bytes": 3092892,
+  "tris": 199996,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 34017960
+ },
+ {
+  "uid": "2a048eb83c464531aaa0150cb7759afe",
+  "id": "sf-turquoise-dragon-toy-high-poly-2a048e",
+  "bytes": 1473332,
+  "tris": 200000,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 13693716
+ },
+ {
+  "uid": "97e78c22b9624c78823f1653109a6de1",
+  "id": "sf-photoscan-manhole-cover-1-97e78c",
+  "bytes": 1237364,
+  "tris": 131830,
+  "maxTexture": 2048,
+  "textures": 1,
+  "rawBytes": 10012452
  }
 ]
