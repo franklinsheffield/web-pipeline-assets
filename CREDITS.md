@@ -1,6 +1,6 @@
 # Credits and licences
 
-Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files were optimised for the web (meshopt geometry, WebP textures, 1K HDR copies); CC BY items list the credit they need below. Totals: 6471 models, 520 texture sets, 179 HDRIs and sky maps, 448 effect sprites.
+Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files were optimised for the web (meshopt geometry, WebP textures, 1K HDR copies); CC BY items list the credit they need below. Totals: 6471 models, 520 texture sets, 179 HDRIs and sky maps, 242 particle-overlay loops.
 
 ## Sources by pack
 
@@ -8,11 +8,6 @@ Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files we
 |---|---|---|---|---|---|
 | hdris | Poly Haven | Poly Haven artists | CC0 1.0 | 138 | zuujis-cc0/polyhaven-hdris-* (mirror of polyhaven.com) |
 | textures | ambientCG | ambientCG | CC0 1.0 | 360 | zuujis-cc0/ambientcg-materials-* (mirror of ambientcg.com) |
-| effects | Kenney Particle Pack | Kenney | CC0 1.0 | 96 | shorepine/kenney |
-| effects | Kenney Smoke Particles | Kenney | CC0 1.0 | 53 | shorepine/kenney |
-| effects | Kenney Planets | Kenney | CC0 1.0 | 52 | shorepine/kenney |
-| effects | Kenney Explosion Pack | Kenney | CC0 1.0 | 22 | shorepine/kenney |
-| effects | Kit-made sprites | Made for the kit | CC0 1.0 | 225 | kit (scripts/gaps/effects_gen.py, effects_gen2.py) |
 | hdris | Poly Haven | Poly Haven | CC0 1.0 | 37 | RazorEdge-wyh/unity-nature-pbr-asset-library |
 | hdris | NASA 3D Resources | NASA | Public domain | 3 | nasa/NASA-3D-Resources |
 | hdris | Kit space textures | NASA Goddard SVS; Gaia DR2: ESA/Gaia/DPAC | Public domain | 1 | kit |
@@ -185,6 +180,7 @@ Every file here is CC0 1.0, public domain, CC BY 3.0/4.0 or Apache 2.0. Files we
 | textures | Solar System Scope | Solar System Scope | CC BY 4.0 | 11 | LDCastroverde/SolarSystem-Planet-Textures |
 | textures | Kit space textures | Solar System Scope | CC BY 4.0 | 1 | kit |
 | textures | Kit space textures | NASA Scientific Visualization Studio | Public domain | 1 | kit |
+| effects | Kit particle overlays (37 loops + 205 vibe colourways) | Made for the kit | CC0 1.0 | 242 | kit (scripts/effects/) |
 
 ## Items that require a visible credit (CC BY / Apache 2.0)
 
@@ -639,3 +635,10 @@ Photogrammetry/3D scans from Sketchfab, each CC BY 4.0 (https://creativecommons.
 - `models/scans/sf-echo-in-johnson-city-antiques-showroom-eadc30.glb`: "Echo in Johnson City - Antiques Showroom" by SiteScape, https://sketchfab.com/3d-models/eadc3036970f4c12bfcca922e553ce13, CC BY 4.0, modified
 - `models/scans/sf-kitchen-dining-room-dot3d-dpi-10-kit-5-p-ed0963.glb`: "Kitchen+Dining Room (Dot3D, DPI-10 Kit, 5% pts)" by DotProduct, https://sketchfab.com/3d-models/ed0963e93083493eaaf20f985dccb9c9, CC BY 4.0, modified
 - `models/scans/sf-tree-shadow-fd327d.glb`: "Tree shadow" by archiwum_xyz, https://sketchfab.com/3d-models/fd327d4ef1a34f9bbadbdaa00b47fdc5, CC BY 4.0, modified
+
+
+## Effects (replaced 2026-11-25)
+
+The 448 Kenney and kit-made effect sprites were removed. `effects/` now holds 242 particle-overlay loops rendered procedurally for the kit (CC0 1.0, no credit needed): H.264 MP4, 1280x720, 30 fps, 8 s seamless loops of light on pure black, made for `mix-blend-mode: screen`.
+
+Vecteezy overlays are deliberately NOT stored here: the Vecteezy Free License forbids redistributing the files ("not even for free") and stockpiling downloads. The kit links to a short hand-picked list of Vecteezy and Pixabay clips instead (`src/library/stock-overlays.ts`).
